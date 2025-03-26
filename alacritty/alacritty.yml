@@ -1,0 +1,37 @@
+# alacritty.yml
+# Note: This is just a basic starting point. You can modify values based on your preferences.
+
+
+# Colors (dark theme example)
+colors:
+  primary:
+    background: '0x282828'       # Dark background color
+    foreground: '0xebdbb2'       # Light foreground (text color)
+
+  normal:
+    black:   '0x1d2021'
+    red:     '0xfb4934'
+    green:   '0x8ec07c'
+    yellow:  '0xfad02e'
+    blue:    '0x83a598'
+    magenta: '0xd3869b'
+    cyan:    '0x8ec07c'
+    white:   '0xebdbb2'
+
+  bright:
+    black:   '0x665c54'
+    red:     '0xfb4934'
+    green:   '0x8ec07c'
+    yellow:  '0xfad02e'
+    blue:    '0x83a598'
+    magenta: '0xd3869b'
+    cyan:    '0x8ec07c'
+    white:   '0xeeeeee'
+
+# Window settings
+window:
+  padding:
+    x: 5
+    y: 5
+  dynamic_title: true          # Set the terminal window's title dynamically (based on the current task)
+
