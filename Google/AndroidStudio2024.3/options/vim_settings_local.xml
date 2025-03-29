@@ -1,0 +1,209 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz4=</entry>
+        <entry encoding="base64">cy9UaWNrcy9Qb3MvZw==</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">MA==</entry>
+        <entry encoding="base64">d3E=</entry>
+      </history-cmd>
+      <history-search>
+        <entry encoding="base64">VGlja3M=</entry>
+        <entry encoding="base64">bWluVg==</entry>
+        <entry encoding="base64">ZGlyZWN0aW9u</entry>
+        <entry encoding="base64">Rk9SV0FSRA==</entry>
+        <entry encoding="base64">RW5jb2Rlcg==</entry>
+        <entry encoding="base64">RW5jb2RlckRpcmU=</entry>
+      </history-search>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="RobotCore-dd27503">
+      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt" protocol="file" />
+      <jump line="29" column="34" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt" protocol="file" />
+      <jump line="57" column="23" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt" protocol="file" />
+      <jump line="47" column="34" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt" protocol="file" />
+      <jump line="13" column="6" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt" protocol="file" />
+      <jump line="8" column="19" filename="$USER_HOME$/.ideavimrc" protocol="file" />
+      <jump line="29" column="45" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/res/xml/aerosol_fire.xml" protocol="file" />
+      <jump line="45" column="20" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt" protocol="file" />
+      <jump line="23" column="35" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Constants.kt" protocol="file" />
+      <jump line="39" column="56" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt" protocol="file" />
+      <jump line="35" column="20" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Teleop.kt" protocol="file" />
+      <jump line="2" column="6" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" protocol="file" />
+      <jump line="29" column="7" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="32" column="33" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="9" column="25" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="10" column="22" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="12" column="24" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="15" column="38" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="17" column="20" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="20" column="36" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="24" column="31" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="14" column="10" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="12" column="33" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" protocol="file" />
+      <jump line="13" column="17" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" protocol="file" />
+      <jump line="5" column="22" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" protocol="file" />
+      <jump line="11" column="6" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/TeleopDrivePowers.kt" protocol="file" />
+      <jump line="18" column="24" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" protocol="file" />
+      <jump line="28" column="40" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" protocol="file" />
+      <jump line="4" column="74" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" protocol="file" />
+      <jump line="11" column="6" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt" protocol="file" />
+      <jump line="49" column="13" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="65" column="23" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="309" column="23" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="138" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="306" column="23" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="305" column="23" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="42" column="68" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="55" column="17" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="312" column="31" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="314" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="273" column="36" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+      <jump line="310" column="19" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" timestamp="1743138720068">
+        <mark key="&quot;" line="310" column="19" />
+        <mark key="'" line="310" column="19" />
+        <mark key="[" line="315" column="24" />
+        <mark key="]" line="315" column="41" />
+        <mark key="." line="315" column="40" />
+        <mark key="^" line="315" column="41" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Teleop.kt" timestamp="1743137534425">
+        <mark key="&quot;" line="35" column="20" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/README.md" timestamp="1742969002418">
+        <mark key="&quot;" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Telemetry.kt" timestamp="1742974180601">
+        <mark key="&quot;" line="7" column="7" />
+      </file>
+      <file name="/" timestamp="1742970092745">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Constants.kt" timestamp="1742972762021">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="23" column="37" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/GlobalHardwareMap.kt" timestamp="1742974026064">
+        <mark key="&quot;" line="18" column="4" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt" timestamp="1742973338614">
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="39" column="57" />
+        <mark key="^" line="39" column="57" />
+        <mark key="." line="39" column="56" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/res/xml/aerosol_fire.xml" timestamp="1742973773283">
+        <mark key="&quot;" line="29" column="45" />
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="45" />
+        <mark key="^" line="29" column="46" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" timestamp="1743138493507">
+        <mark key="&quot;" line="35" column="4" />
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="75" />
+        <mark key="." line="4" column="74" />
+        <mark key="^" line="4" column="75" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Component.kt" timestamp="1743138661757">
+        <mark key="&quot;" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1742970055379">
+        <mark key="&quot;" line="9" column="0" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="19" />
+        <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" timestamp="1743138000226">
+        <mark key="&quot;" line="12" column="12" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="7" />
+        <mark key="^" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" timestamp="1743137430442">
+        <mark key="&quot;" line="34" column="28" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">UkVWRVJTRQ==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">UkVWRVJTRQ==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">RENvbXBvbmVudC5EaXJlY3Rpb24uUkVWRVJTRS5EaXJlY3Rpb24=</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">RW5jb2RlckRpcmU=</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">aW1wb3J0IG9yZy5maXJzdGluc3BpcmVzLmZ0Yy50ZWFtY29kZS5jb21wb25lbnQuQ29tcG9uZW50LkRpcmVjdGlvbjsK</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBSRVZFUlNFRDsK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBGT1JXQVJELAo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIEVuY29kZXJEaXJlY3Rpb257Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgIC8vZW51bSB0aGF0IGNhcHR1cmVzIHRoZSBkaXJlY3Rpb24gdGhlIGVuY29kZXJzIGFyZSBzZXQgdG8K</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdFBvcyAtIGN1Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgIHZhbCBtaW5Wb2x0YWdlOiBEb3VibGUgPSAwLjAK</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBsYXN0UAo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">d3E=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">RW5jb2RlckRpcmU=</last-search>
+      <last-substitute encoding="base64">VGlja3M=</last-substitute>
+      <last-offset encoding="base64" />
+      <last-replace encoding="base64">UG9z</last-replace>
+      <last-pattern encoding="base64">RW5jb2RlckRpcmU=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

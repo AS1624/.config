@@ -1,0 +1,1490 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="RobotCore" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3sl91nbv8mgh4" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="783">
+                <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"OuttakeArm.kt","foregroundColor":-4144954,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="812">
+                <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"opmodes/ArmTest.kt","foregroundColor":-9922629,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"6897bb"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,18,53,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-16,-50,-72,-55,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/TeleopDrivePowers.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="116">
+                <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"TeleopDrivePowers.kt","foregroundColor":-4144954,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,18,53,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-16,-50,-72,-55,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="116">
+                <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"AnalogEncoder.kt","foregroundColor":-10315947,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"629755"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,18,53,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-16,-50,-72,-55,2,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="116">
+                <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Pinpoint.kt","foregroundColor":-4144954,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,18,53,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,99,108,97,115,115,75,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-16,-50,-72,-55,2,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Constants.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="667">
+                <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Constants.kt","foregroundColor":-9922629,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"6897bb"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-122,1,10,47,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,107,111,116,108,105,110,95,102,105,108,101,46,115,118,103,18,48,111,114,103,47,106,101,116,98,114,97,105,110,115,47,107,111,116,108,105,110,47,105,100,101,97,47,105,99,111,110,115,47,101,120,112,117,105,47,107,111,116,108,105,110,46,115,118,103,26,20,111,114,103,46,106,101,116,98,114,97,105,110,115,46,107,111,116,108,105,110,40,-98,-111,-47,-25,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "XML": {
+      "usageCount": 3,
+      "lastUsed": 1742972519397
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1742970010198
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1742968810663
+    },
+    "Kotlin": {
+      "usageCount": 24,
+      "lastUsed": 1743138657326
+    },
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1743138525376
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/Avery/.ideavimrc",
+    "/home/Avery/StudioProjects/RobotCore/TeamCode/src/main/res/xml/aerosol_fire.xml",
+    "/home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Constants.kt",
+    "/home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt",
+    "/home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Teleop.kt",
+    "/home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt",
+    "/home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt",
+    "/home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java"
+  ]
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1743138525376" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1742968810665" />
+    </language>
+    <language id="XML">
+      <summary usageCount="3" lastUsage="1742972519401" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="24" lastUsage="1743138657326" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1742970010198" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RobotCore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="RobotCore" />
+            <item name="RobotCore" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="RobotCore" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".gradle" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/.gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.kotlin" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".kotlin" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/.kotlin}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.run" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".run" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/.run}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/doc" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="doc" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/doc}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/FtcRobotController" />
+                  </map>
+                </attributes>
+                <data iconPath="studio/icons/shell/filetree/library-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="FtcRobotController" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/FtcRobotController}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="gradle" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/gradle}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/libs" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="libs" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/libs}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/TeamCode" />
+                  </map>
+                </attributes>
+                <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="TeamCode" />
+                <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.common.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="build.common.gradle" />
+                <item name="build.common.gradle" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.dependencies.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="build.dependencies.gradle" />
+                <item name="build.dependencies.gradle" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="build.gradle" />
+                <item name="build.gradle" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradle.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="gradle.properties" />
+                <item name="gradle.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/shell.svg" iconPlugin="com.intellij" isLeaf="true" text="gradlew" />
+                <item name="gradlew" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/gradlew.bat" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="gradlew.bat" />
+                <item name="gradlew.bat" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LICENSE" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="LICENSE" />
+                <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/local.properties" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/properties.svg" iconPlugin="com.intellij" isLeaf="true" text="local.properties" />
+                <item name="local.properties" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/settings.gradle" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="true" text="settings.gradle" />
+                <item name="settings.gradle" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="xml" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="RobotCore" />
+            <item name="RobotCore" type="1abcf292:AndroidViewProjectNode" />
+            <presentation>
+              <attributes />
+              <data iconPath="studio/icons/shell/filetree/library-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="FtcRobotController" />
+              <item name="FtcRobotController" type="feadf853:AndroidModuleNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="studio/icons/shell/filetree/android-module.svg" iconPlugin="org.jetbrains.android" isLeaf="false" text="TeamCode" />
+              <item name="TeamCode" type="feadf853:AndroidModuleNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="manifests" />
+                <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="org.firstinspires.ftc.teamcode" />
+                  <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="command" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="internal" />
+                      <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/Command.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Command" />
+                        <item name="Command" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/CommandGroup.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="CommandGroup" />
+                        <item name="CommandGroup" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/CommandScheduler.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="CommandScheduler" />
+                        <item name="CommandScheduler" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/CyclicalCommand.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="CyclicalCommand" />
+                        <item name="CyclicalCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/GlobalHardwareMap.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="GlobalHardwareMap" />
+                        <item name="GlobalHardwareMap" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/InstantCommand.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="InstantCommand" />
+                        <item name="InstantCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/ParallelCommandGroup.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="ParallelCommandGroup" />
+                        <item name="ParallelCommandGroup" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/RepeatCommand.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="RepeatCommand" />
+                        <item name="RepeatCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/RunCommand.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="RunCommand" />
+                        <item name="RunCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/StartEndCommand.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="StartEndCommand" />
+                        <item name="StartEndCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/TimedCommand.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="TimedCommand" />
+                        <item name="TimedCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/Timer.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Timer" />
+                        <item name="Timer" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/Trigger.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Trigger" />
+                        <item name="Trigger" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/WaitCommand.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="WaitCommand" />
+                        <item name="WaitCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/WaitUntilCommand.kt" />
+                          </map>
+                        </attributes>
+                        <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="WaitUntilCommand" />
+                        <item name="WaitUntilCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                      </presentation>
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/Commands.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Commands.kt" />
+                      <item name="Commands.kt" type="24436e51:KtFileTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/FollowPathCommand.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="FollowPathCommand" />
+                      <item name="FollowPathCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/LogCommand.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="LogCommand" />
+                      <item name="LogCommand" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/RunMotorToPower.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="RunMotorToPower" />
+                      <item name="RunMotorToPower" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/TeleopDrivePowers.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="TeleopDrivePowers" />
+                      <item name="TeleopDrivePowers" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="component" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/controller" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="controller" />
+                      <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/controller}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Actuator.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/interfaceKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Actuator" />
+                      <item name="Actuator" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="AnalogEncoder" />
+                      <item name="AnalogEncoder" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Camera.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Camera" />
+                      <item name="Camera" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Component.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/interfaceKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Component" />
+                      <item name="Component" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="CRServo" />
+                      <item name="CRServo" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/abstractClassKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Encoder" />
+                      <item name="Encoder" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/IMU.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="IMU" />
+                      <item name="IMU" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/LastWrite.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="LastWrite" />
+                      <item name="LastWrite" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Motor.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Motor.kt" />
+                      <item name="Motor.kt" type="24436e51:KtFileTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Pinpoint" />
+                      <item name="Pinpoint" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/QuadratureEncoder.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="QuadratureEncoder" />
+                      <item name="QuadratureEncoder" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Servo.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Servo" />
+                      <item name="Servo" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/TouchSensor.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="TouchSensor" />
+                      <item name="TouchSensor" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/cv" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="cv" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/cv}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/fakehardware" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="fakehardware" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/fakehardware}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="gvf" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="opmodes" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="ArmTest" />
+                      <item name="ArmTest" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Auto.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Auto" />
+                      <item name="Auto" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/CameraTest.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="CameraTest" />
+                      <item name="CameraTest" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/CommandOpMode.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="CommandOpMode.kt" />
+                      <item name="CommandOpMode.kt" type="24436e51:KtFileTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/DriveForwardAuto.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="DriveForwardAuto" />
+                      <item name="DriveForwardAuto" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ExtendoPush.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="ExtendoPush" />
+                      <item name="ExtendoPush" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/FancyAuto.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="FancyAuto" />
+                      <item name="FancyAuto" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/FollowPath.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="FollowPath" />
+                      <item name="FollowPath" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/GenerateMotorData.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="GenerateMotorData" />
+                      <item name="GenerateMotorData" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Servos.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Servos" />
+                      <item name="Servos" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Teleop.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Teleop" />
+                      <item name="Teleop" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/TestEverything.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="TestEverything" />
+                      <item name="TestEverything" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/TestOpMode.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="TestOpMode" />
+                      <item name="TestOpMode" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/python" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="python" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/python}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/sim" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="sim" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/sim}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/stateMachine" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="stateMachine" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/stateMachine}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="subsystem" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Drivetrain" />
+                      <item name="Drivetrain" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Extendo.kt" />
+                      <item name="Extendo.kt" type="24436e51:KtFileTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="OuttakeArm.kt" />
+                      <item name="OuttakeArm.kt" type="24436e51:KtFileTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeClaw.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="OuttakeClaw.kt" />
+                      <item name="OuttakeClaw.kt" type="24436e51:KtFileTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Robot.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Robot" />
+                      <item name="Robot" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/SampleIntake.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="SampleIntake.kt" />
+                      <item name="SampleIntake.kt" type="24436e51:KtFileTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Subsystem.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/interfaceKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Subsystem" />
+                      <item name="Subsystem" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Telemetry.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Telemetry" />
+                      <item name="Telemetry" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="util" />
+                    <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="control" />
+                      <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/geometry" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="geometry" />
+                      <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/geometry}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/graph" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="graph" />
+                      <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/graph}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/json" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="json" />
+                      <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/json}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Constants.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Constants.kt" />
+                      <item name="Constants.kt" type="24436e51:KtFileTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Drawing.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Drawing" />
+                      <item name="Drawing" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Globals.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/objectKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="Globals" />
+                      <item name="Globals" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="GoBildaPinpointDriver" />
+                      <item name="GoBildaPinpointDriver" type="1a9f42e2:ClassTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OpModeRunner.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/classKotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="OpModeRunner" />
+                      <item name="OpModeRunner" type="2c5a2ef7:KtClassOrObjectTreeNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/SI.kt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="org/jetbrains/kotlin/idea/icons/expui/kotlin.svg" iconPlugin="org.jetbrains.kotlin" isLeaf="true" text="SI.kt" />
+                      <item name="SI.kt" type="24436e51:KtFileTreeNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ManualControl.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ManualControl" />
+                    <item name="ManualControl" type="1a9f42e2:ClassTreeNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/test/java/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                  <item name="dir{file:///home/Avery/StudioProjects/RobotCore/TeamCode/src/test/java/test}" type="cbb59c9e:AndroidPsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/test/java/logTestData.json" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text="logTestData.json" />
+                  <item name="logTestData.json" type="a967d35f:AndroidPsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/generatedSource.svg" iconPlugin="com.intellij" isLeaf="true" text="java (generated)" />
+                <item name="java (generated)" type="edd41e36:AndroidSourceTypeNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="jniLibs" />
+                <item name="jniLibs" type="edd41e36:AndroidSourceTypeNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="res" />
+                <item name="res" type="d4f16f75:AndroidResFolderNode" />
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="mipmap" />
+                  <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="values" />
+                  <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="xml" />
+                  <item name="xml" type="ddeffd01:AndroidResFolderTypeNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/res/xml/aerosol_fire.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="aerosol_fire.xml" />
+                    <item name="aerosol_fire.xml" type="49fa4d93:AndroidResFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/TeamCode/src/main/res/xml/testing.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="testing.xml" />
+                    <item name="testing.xml" type="49fa4d93:AndroidResFileNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="res (generated)" />
+                <item name="res (generated)" type="d4f16f75:AndroidResFolderNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="icons/expui/gradle.svg" iconPlugin="com.intellij.gradle" isLeaf="false" text="Gradle Scripts" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.TeamCode" />
+      <element setting="Gradle.RunAllTests" />
+    </history>
+  </component>
+  <component name="SplittingTabsState">
+    <tool-windows>
+      <tool-window id="Logcat" selected-tab="0">
+        <tabs>
+          <tab name="Logcat">
+            <content>
+              <panel>{'device':{'deviceId':'192.168.43.1:5555','name':'REV Robotics Control Hub v1.0','serialNumber':'192.168.43.1:5555','isOnline':false,'release':'7.1.2','sdk':25,'featureLevel':25,'model':'Control Hub v1.0','type':'HANDHELD','isEmulator':false},'formattingConfig':{'preset':'STANDARD'},'filter':'package:mine ','filterMatchCase':false,'isSoftWrap':false}</panel>
+            </content>
+          </tab>
+        </tabs>
+      </tool-window>
+    </tool-windows>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RunAllTests - 2025.03.25 at 22h 13m 12s.xml">
+      <configuration name="RunAllTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="RunAllTests - 2025.03.25 at 22h 13m 40s.xml">
+      <configuration name="RunAllTests" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Build Variants" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Structure" show_stripe_button="false" side_tool="true" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info content_ui="combo" x="1159" y="-23" width="400" height="1168" id="Project" order="0" type="WINDOWED" visible="true" weight="0.32970384" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" show_stripe_button="false" />
+      <window_info anchor="bottom" id="clangd" show_stripe_button="false" />
+      <window_info anchor="bottom" id="App Inspection" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" x="1565" y="549" width="1628" height="596" id="Logcat" order="4" type="WINDOWED" visible="true" weight="0.33013767" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" show_stripe_button="false" weight="0.33010912" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="7" show_stripe_button="false" weight="0.33013767" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" show_stripe_button="false" />
+      <window_info anchor="right" id="Device Explorer" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="App Links Assistant" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="5" weight="0.32970384" />
+      <window_info anchor="right" id="Kotlin Bytecode" order="6" weight="0.6884886" />
+      <window_info anchor="right" id="StudioBot" order="6" weight="0.25" />
+      <unified_weights bottom="0.33013767" left="0.32970384" right="0.6884886" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Logcat</value>
+      <value>Find</value>
+      <value>Kotlin Bytecode</value>
+      <value>Build</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="666" width="378" height="570" key="#com.intellij.ide.util.MemberChooser" timestamp="1743136806626">
+      <screen x="0" y="0" width="1152" height="2048" />
+    </state>
+    <state x="380" y="666" width="378" height="570" key="#com.intellij.ide.util.MemberChooser/1152.0.2048.1152/0.0.1152.2048@0.0.1152.2048" timestamp="1743136806626" />
+    <state x="44" y="119" width="992" height="732" key="SettingsEditor" timestamp="1743137140062">
+      <screen x="0" y="0" width="1152" height="2048" />
+    </state>
+    <state x="44" y="119" width="992" height="732" key="SettingsEditor/1152.0.2048.1152/0.0.1152.2048@0.0.1152.2048" timestamp="1743137140062" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#62#90#0#Markdown" expanded="true" />
+            <element signature="e#304#326#0#Markdown" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/res/xml/aerosol_fire.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/internal/GlobalHardwareMap.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="522">
+            <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Telemetry.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="116">
+            <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="812">
+            <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/Constants.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="667">
+            <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="783">
+            <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Teleop.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="522">
+            <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/TeleopDrivePowers.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="116">
+            <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Encoder.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="319">
+            <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/AnalogEncoder.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="116">
+            <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Component.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="116">
+            <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="1126">
+            <caret line="310" column="19" selection-start-line="310" selection-start-column="19" selection-end-line="310" selection-end-column="19" />
+            <folding>
+              <element signature="e#1218#2070#0" expanded="true" />
+            </folding>
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="116">
+            <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

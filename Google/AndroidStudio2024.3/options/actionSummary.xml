@@ -1,0 +1,163 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ActivateBuildToolWindow">
+      <i c="1" l="1742969270550" />
+    </e>
+    <e n="ActivateLogcatToolWindow">
+      <i c="1" l="1742969639157" />
+    </e>
+    <e n="AssembleRunConfiguration">
+      <i c="1" l="1742969200776" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="9" l="1743138621102" />
+    </e>
+    <e n="ChooseRunConfiguration">
+      <i c="5" l="1742974289264" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="2" l="1742974804027" />
+    </e>
+    <e n="ConfigureEditorTabs">
+      <i c="1" l="1742969180873" />
+    </e>
+    <e n="ConfigureKotlinInProject">
+      <i c="2" l="1743135702279" />
+    </e>
+    <e n="Documentation.EditSource">
+      <i c="1" l="1743136613305" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="199" l="1743138625651" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1743137888273" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="95" l="1743138684603" />
+    </e>
+    <e n="EditorDelete">
+      <i c="34" l="1743138680624" />
+    </e>
+    <e n="EditorDown">
+      <i c="17" l="1743138684357" />
+    </e>
+    <e n="EditorEnter">
+      <i c="43" l="1743138599507" />
+    </e>
+    <e n="EditorEscape">
+      <i c="13" l="1743138590723" />
+    </e>
+    <e n="EditorTab">
+      <i c="10" l="1743138384059" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1742969174603" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1743136103079" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1743137875016" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="1" l="1743136038802" />
+    </e>
+    <e n="NavBarLocationBottom">
+      <i c="1" l="1742969125311" />
+    </e>
+    <e n="NavBarLocationHide">
+      <i c="1" l="1742969132239" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1743136033753" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1742974251313" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1743138719994" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="4" l="1743138448363" />
+    </e>
+    <e n="ShowKotlinBytecode">
+      <i c="1" l="1743135708742" />
+    </e>
+    <e n="ShowPopupMenu">
+      <i c="2" l="1743138704523" />
+    </e>
+    <e n="ShowSettings">
+      <i c="17" l="1743137127229" />
+    </e>
+    <e n="ToggleDistractionFreeMode">
+      <i c="2" l="1742969146409" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1742968709866" />
+    </e>
+    <e n="ViewStatusBar">
+      <i c="2" l="1742970004960" />
+    </e>
+    <e n="ViewToolBar">
+      <i c="1" l="1742969106581" />
+    </e>
+    <e n="ViewToolButtons">
+      <i c="1" l="1742969110766" />
+    </e>
+    <e n="VimPluginToggle">
+      <i c="2" l="1742969982030" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1742969073165" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
+      <i c="1" l="1743136608978" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="1" l="1743138290612" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolWindowViewModeAction">
+      <i c="2" l="1742969646419" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="161" l="1743138705147" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1743136617413" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1742969002400" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
+      <i c="5" l="1743136784676" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$EditShortcutAction">
+      <i c="1" l="1743136413920" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$RemoveShortcutAction">
+      <i c="3" l="1743136782500" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="3" l="1743137688641" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="8" l="1742969099844" />
+    </e>
+    <e n="com.intellij.refactoring.suggested.RefactoringAvailableGutterIconRenderer$getClickAction$1">
+      <i c="2" l="1743137420712" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1743135761284" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="2" l="1742969642143" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
+      <i c="1" l="1742970009943" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="22" l="1743138719986" />
+    </e>
+  </component>
+</application>

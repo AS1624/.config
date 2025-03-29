@@ -1,0 +1,17 @@
+<scheme name="_@user_Rider Melon Dark" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2024.3.1.14</property>
+    <property name="originalScheme">Rider Melon Dark</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">Rider UI Theme Pack</property>
+  </metaInfo>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="d0d0d0" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

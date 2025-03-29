@@ -1,0 +1,8 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="VisualAssistDark" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="VisualAssistDark" scheme="_@user_Rider Melon Dark" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>
