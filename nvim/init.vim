@@ -17,6 +17,8 @@ set incsearch
 " Don't use Ex mode, use Q for formatting.
 map Q gq
 
+call plug#begin('~/.vim/plugged')
+
 " Highlight copied text
 Plug 'machakann/vim-highlightedyank'
 " Commentary plugin
