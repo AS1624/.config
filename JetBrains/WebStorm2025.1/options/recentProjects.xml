@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/WebstormProjects/amelia">
+          <value>
+            <RecentProjectMetaInfo frameTitle="amelia – index.html" opened="true" projectWorkspaceId="2wHjDDExYsk89rYSeBwcX8PxZU0">
+              <option name="activationTimestamp" value="1745713224239" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-251.23774.424" />
+              <option name="buildTimestamp" value="1744634040000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="576" y="-18" width="574" height="2066" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1745707156590" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/WebstormProjects/amelia" />
+  </component>
+</application>

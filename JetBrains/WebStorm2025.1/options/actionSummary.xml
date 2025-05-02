@@ -1,0 +1,100 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1745710380964" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="1" l="1745707340816" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="67" l="1745710155558" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1745709857602" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="14" l="1745710165084" />
+    </e>
+    <e n="EditorDelete">
+      <i c="14" l="1745705726685" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1745709856948" />
+    </e>
+    <e n="EditorEnter">
+      <i c="22" l="1745710167950" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1745706081565" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1745705851452" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1745709857256" />
+    </e>
+    <e n="FindInPath">
+      <i c="2" l="1745710411924" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="17" l="1745710316157" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1745705634528" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1745707821989" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1745706655477" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1745705593480" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1745705238148" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1745705229697" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="1" l="1745705605813" />
+    </e>
+    <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
+      <i c="9" l="1745710426750" />
+    </e>
+    <e n="com.intellij.ide.browsers.actions.OpenHtmlInEmbeddedBrowserAction">
+      <i c="1" l="1745706672479" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1745705217284" />
+    </e>
+    <e n="com.intellij.javascript.nodejs.packageJson.notification.PackageJsonGetDependenciesAction">
+      <i c="1" l="1745705494517" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="68" l="1745710155555" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="2" l="1745707292815" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1745706813918" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1745706201243" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1745713224153" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1745705591984" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="3" l="1745706199491" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="3" l="1745709796258" />
+    </e>
+  </component>
+</application>

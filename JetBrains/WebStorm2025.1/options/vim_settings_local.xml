@@ -1,0 +1,151 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">Y29ucw==</entry>
+        <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
+        <entry encoding="base64">anNvbg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="amelia-9262f492">
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/amelia/index.html" protocol="file" />
+      <jump line="30" column="10" filename="$USER_HOME$/WebstormProjects/amelia/index.html" protocol="file" />
+      <jump line="36" column="30" filename="$USER_HOME$/WebstormProjects/amelia/index.html" protocol="file" />
+      <jump line="37" column="12" filename="$USER_HOME$/WebstormProjects/amelia/index.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/amelia/package.json" protocol="file" />
+      <jump line="35" column="39" filename="$USER_HOME$/WebstormProjects/amelia/index.html" protocol="file" />
+      <jump line="32" column="24" filename="$USER_HOME$/WebstormProjects/amelia/index.html" protocol="file" />
+      <jump line="38" column="35" filename="$USER_HOME$/WebstormProjects/amelia/index.html" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/amelia/enumerate.js" protocol="file" />
+      <jump line="47" column="18" filename="$USER_HOME$/WebstormProjects/amelia/index.html" protocol="file" />
+      <jump line="33" column="39" filename="$USER_HOME$/WebstormProjects/amelia/index.html" protocol="file" />
+      <jump line="62" column="0" filename="$USER_HOME$/WebstormProjects/amelia/enumerate.js" protocol="file" />
+      <jump line="11" column="25" filename="$USER_HOME$/WebstormProjects/amelia/enumerate.js" protocol="file" />
+      <jump line="15" column="44" filename="$USER_HOME$/WebstormProjects/amelia/enumerate.js" protocol="file" />
+      <jump line="37" column="47" filename="$USER_HOME$/WebstormProjects/amelia/enumerate.js" protocol="file" />
+      <jump line="4" column="55" filename="$USER_HOME$/WebstormProjects/amelia/enumerate.js" protocol="file" />
+      <jump line="12" column="32" filename="$USER_HOME$/WebstormProjects/amelia/enumerate.js" protocol="file" />
+      <jump line="16" column="32" filename="$USER_HOME$/WebstormProjects/amelia/enumerate.js" protocol="file" />
+      <jump line="18" column="35" filename="$USER_HOME$/WebstormProjects/amelia/enumerate.js" protocol="file" />
+      <jump line="1" column="10" filename="$USER_HOME$/WebstormProjects/amelia/env.js" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/WebstormProjects/amelia/githubMock.json" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/WebstormProjects/amelia/outfit.html" timestamp="1745706194725">
+        <mark key="&quot;" line="51" column="18" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/amelia/add.html" timestamp="1745710416537">
+        <mark key="&quot;" line="20" column="70" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/amelia/env.js" timestamp="1745710317037">
+        <mark key="&quot;" line="1" column="12" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/amelia/enumerate.js" timestamp="1745710169932">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="18" column="37" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/amelia/header.css" timestamp="1745710421355">
+        <mark key="&quot;" line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/amelia/githubMock.json" timestamp="1745705768843">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/amelia/index.html" timestamp="1745707707623">
+        <mark key="&quot;" line="39" column="12" />
+        <mark key="'" line="40" column="48" />
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="40" />
+      </file>
+      <file name="/" timestamp="1745705616541">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/amelia/upload.js" timestamp="1745706194323">
+        <mark key="&quot;" line="30" column="16" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">aHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9hczE2MjQvYW1lbGlhL2NvbnRlbnRzL2pzb25gOw==</text>
+      </register>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0T3V0Zml0cyhzZWFyY2gpIHsKICAgIGNvbnN0IHVybCA9IGdldFVybCgpIC8vIGZyb20gZW52LmpzCgogICAgbGV0IG91dHB1dCA9IFtdCiAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKHVybCwgewogICAgICAgIGhlYWRlcnM6IHsiQWNjZXB0IjogImFwcGxpY2F0aW9uL3ZuZC5naXRodWIudjMranNvbiJ9CiAgICB9KTsKCiAgICBpZiAoIXJlc3BvbnNlLm9rKSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBHaXRIdWIgQVBJIGVycm9yOiAke3Jlc3BvbnNlLnN0YXR1c30gJHtyZXNwb25zZS5zdGF0dXNUZXh0fWApOwogICAgfQoKICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICBkYXRhLm1hcChhc3luYyBmaWxlID0+IHsKICAgICAgICBsZXQganNvbiA9IGF3YWl0IGZldGNoKCJqc29uLyIgKyBmaWxlLm5hbWUpLnRoZW4ocmVzdWx0ID0+IHJlc3VsdC5qc29uKCkpCiAgICAgICAgbGV0IG91dGZpdCA9IHsKICAgICAgICAgICAgbmFtZToganNvbi5uYW1lLAogICAgICAgICAgICBkZXNjcmlwdGlvbjoganNvbi5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgdGFnczoganNvbi50YWdzLAogICAgICAgICAgICBibG9iOiBiYXNlNjRUb0Jsb2IoanNvbi5pbWFnZUJhc2U2NCksCiAgICAgICAgfQogICAgICAgIGxldCBjb250ZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbnRlbnQnKTsKCiAgICAgICAgbGV0IHRhZ3MgPSBvdXRmaXQudGFncy50b1N0cmluZygpLnRvTG93ZXJDYXNlKCkuc3BsaXQoIiAiKTsKICAgICAgICBsZXQgaW5uZXJDb250ZW50ID0gYDxkaXYgaWQ9Im91dGZpdC1jb250YWluZXIiPgogICAgICAgICAgICA8aDMgaWQ9Im91dGZpdC1uYW1lIj4ke291dGZpdC5uYW1lfTwvaDM+CiAgICAgICAgICAgIDxkaXYgaWQ9Im91dGZpdC1pbWctY29udGFpbmVyIj4KICAgICAgICAgICAgPGEgaHJlZj0iL291dGZpdC5odG1sP2lkPSR7ZmlsZS5uYW1lfSI+PC9hPgogICAgICAgICAgICAgICAgPGltZyBzcmM9IiR7VVJMLmNyZWF0ZU9iamVjdFVSTChvdXRmaXQuYmxvYil9IiBhbHQ9IiI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGlkPSJvdXRmaXQtZGVzY3JpcHRpb24iPiR7b3V0Zml0LmRlc2NyaXB0aW9ufTwvZGl2PgogICAgICAgICAgICA8ZGl2IGlkPSJ0YWctY29udGFpbmVyIj5gCiAgICAgICAgdGFncy5mb3JFYWNoKHRhZyA9PiB7CiAgICAgICAgICAgIGxldCBpbmRleCA9IC0xCiAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgb3V0cHV0Lmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICBpZiAob3V0cHV0W2ldWzBdID09PSB0YWcpIGluZGV4ID0gaQogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoaW5kZXggPiAtMSkgewogICAgICAgICAgICAgICAgb3V0cHV0W2luZGV4XVsxXSsrCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBvdXRwdXQucHVzaChbdGFnLCAxXSkKICAgICAgICAgICAgfQogICAgICAgICAgICBpbm5lckNvbnRlbnQgKz0gYDxzcGFuIGlkPSJvdXRmaXQtdGFnIj4ke3RhZ308L3NwYW4+YAogICAgICAgIH0pCiAgICAgICAgaW5uZXJDb250ZW50ICs9ICI8L2Rpdj48L2Rpdj4iCiAgICAgICAgaWYgKAogICAgICAgICAgICAhc2VhcmNoCiAgICAgICAgICAgIHx8IHRhZ3MuaW5kZXhPZihzZWFyY2gudG9Mb3dlckNhc2UoKSkgPiAtMQogICAgICAgICAgICB8fCBvdXRmaXQuZGVzY3JpcHRpb24uaW5kZXhPZihzZWFyY2gudG9Mb3dlckNhc2UoKSkgPiAtMQogICAgICAgICkgewogICAgICAgICAgICBjb250ZW50LmlubmVySFRNTCArPSBpbm5lckNvbnRlbnQKICAgICAgICB9CiAgICB9KQoKICAgIHJldHVybiBvdXRwdXQKfQo=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">aHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9hczE2MjQvYW1lbGlhL2NvbnRlbnRzL2pzb25gOw==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">Z2l0aHViTW9jay5qc29uYDs=</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">anNvbg==</text>
+      </register>
+      <register name="q" type="CHARACTER_WISE">
+        <text encoding="base64">SXsgIm5hbWUiOmprbHh4JGkgfWprajA=</text>
+      </register>
+      <register name="1" type="CHARACTER_WISE">
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0T3V0Zml0cyhzZWFyY2gpIHsKICAgIGNvbnN0IHVybCA9IGdldFVybCgpIC8vIGZyb20gZW52LmpzCgogICAgbGV0IG91dHB1dCA9IFtdCiAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKHVybCwgewogICAgICAgIGhlYWRlcnM6IHsiQWNjZXB0IjogImFwcGxpY2F0aW9uL3ZuZC5naXRodWIudjMranNvbiJ9CiAgICB9KTsKCiAgICBpZiAoIXJlc3BvbnNlLm9rKSB7CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBHaXRIdWIgQVBJIGVycm9yOiAke3Jlc3BvbnNlLnN0YXR1c30gJHtyZXNwb25zZS5zdGF0dXNUZXh0fWApOwogICAgfQoKICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgICBkYXRhLm1hcChhc3luYyBmaWxlID0+IHsKICAgICAgICBsZXQganNvbiA9IGF3YWl0IGZldGNoKCJqc29uLyIgKyBmaWxlLm5hbWUpLnRoZW4ocmVzdWx0ID0+IHJlc3VsdC5qc29uKCkpCiAgICAgICAgbGV0IG91dGZpdCA9IHsKICAgICAgICAgICAgbmFtZToganNvbi5uYW1lLAogICAgICAgICAgICBkZXNjcmlwdGlvbjoganNvbi5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgdGFnczoganNvbi50YWdzLAogICAgICAgICAgICBibG9iOiBiYXNlNjRUb0Jsb2IoanNvbi5pbWFnZUJhc2U2NCksCiAgICAgICAgfQogICAgICAgIGxldCBjb250ZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbnRlbnQnKTsKCiAgICAgICAgbGV0IHRhZ3MgPSBvdXRmaXQudGFncy50b1N0cmluZygpLnRvTG93ZXJDYXNlKCkuc3BsaXQoIiAiKTsKICAgICAgICBsZXQgaW5uZXJDb250ZW50ID0gYDxkaXYgaWQ9Im91dGZpdC1jb250YWluZXIiPgogICAgICAgICAgICA8aDMgaWQ9Im91dGZpdC1uYW1lIj4ke291dGZpdC5uYW1lfTwvaDM+CiAgICAgICAgICAgIDxkaXYgaWQ9Im91dGZpdC1pbWctY29udGFpbmVyIj4KICAgICAgICAgICAgPGEgaHJlZj0iL291dGZpdC5odG1sP2lkPSR7ZmlsZS5uYW1lfSI+PC9hPgogICAgICAgICAgICAgICAgPGltZyBzcmM9IiR7VVJMLmNyZWF0ZU9iamVjdFVSTChvdXRmaXQuYmxvYil9IiBhbHQ9IiI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGlkPSJvdXRmaXQtZGVzY3JpcHRpb24iPiR7b3V0Zml0LmRlc2NyaXB0aW9ufTwvZGl2PgogICAgICAgICAgICA8ZGl2IGlkPSJ0YWctY29udGFpbmVyIj5gCiAgICAgICAgdGFncy5mb3JFYWNoKHRhZyA9PiB7CiAgICAgICAgICAgIGxldCBpbmRleCA9IC0xCiAgICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgb3V0cHV0Lmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICBpZiAob3V0cHV0W2ldWzBdID09PSB0YWcpIGluZGV4ID0gaQogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAoaW5kZXggPiAtMSkgewogICAgICAgICAgICAgICAgb3V0cHV0W2luZGV4XVsxXSsrCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBvdXRwdXQucHVzaChbdGFnLCAxXSkKICAgICAgICAgICAgfQogICAgICAgICAgICBpbm5lckNvbnRlbnQgKz0gYDxzcGFuIGlkPSJvdXRmaXQtdGFnIj4ke3RhZ308L3NwYW4+YAogICAgICAgIH0pCiAgICAgICAgaW5uZXJDb250ZW50ICs9ICI8L2Rpdj48L2Rpdj4iCiAgICAgICAgaWYgKAogICAgICAgICAgICAhc2VhcmNoCiAgICAgICAgICAgIHx8IHRhZ3MuaW5kZXhPZihzZWFyY2gudG9Mb3dlckNhc2UoKSkgPiAtMQogICAgICAgICAgICB8fCBvdXRmaXQuZGVzY3JpcHRpb24uaW5kZXhPZihzZWFyY2gudG9Mb3dlckNhc2UoKSkgPiAtMQogICAgICAgICkgewogICAgICAgICAgICBjb250ZW50LmlubmVySFRNTCArPSBpbm5lckNvbnRlbnQKICAgICAgICB9CiAgICB9KQoKICAgIHJldHVybiBvdXRwdXQKfQ==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHZhbHVlLmxlbmd0aCA9PT0gMCkge30K</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHZhbHVlLmxlbmd0aCA9PT0gMCkge30K</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUodHJ1ZSkgewo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlCg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUgPSBkb2N1bWVudC50aW0K</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coT2JqZWN0LmtleXModmFsdWUpKQo=</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWUpCg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">anNvbg==</last-search>
+      <last-offset encoding="base64" />
+      <last-pattern encoding="base64">anNvbg==</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>
