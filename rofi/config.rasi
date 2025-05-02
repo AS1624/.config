@@ -1,0 +1,17 @@
+configuration {
+    modi: "window,run,calc:calc";
+    combi-modes: [ "calc", "run", "window" ];
+    show-icons: true;
+}
+
+
+@theme "arthur"
+
+* {
+    font: "hack 20";
+}
+element-icon {
+    size: 1em;
+}
+
+ 
