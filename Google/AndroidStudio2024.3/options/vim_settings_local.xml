@@ -4,8 +4,9 @@
       <history-cmd>
         <entry encoding="base64">JzwsJz4=</entry>
         <entry encoding="base64">cy9UaWNrcy9Qb3MvZw==</entry>
-        <entry encoding="base64">d3E=</entry>
         <entry encoding="base64">MA==</entry>
+        <entry encoding="base64">MQ==</entry>
+        <entry encoding="base64">d3E=</entry>
         <entry encoding="base64" />
         <entry encoding="base64">cQ==</entry>
       </history-cmd>
@@ -35,294 +36,291 @@
         <entry encoding="base64">UGlu</entry>
         <entry encoding="base64">cGlu</entry>
         <entry encoding="base64">U1dJTkc=</entry>
+        <entry encoding="base64">Zm9y</entry>
+        <entry encoding="base64">cnBt</entry>
+        <entry encoding="base64">dGlja3NQZXI=</entry>
+        <entry encoding="base64">dXBkYQ==</entry>
+        <entry encoding="base64">cG9z</entry>
+        <entry encoding="base64">cnVuVA==</entry>
+        <entry encoding="base64">cnVu</entry>
+        <entry encoding="base64">c2V0</entry>
+        <entry encoding="base64">cHJpbnQ=</entry>
+        <entry encoding="base64">b3Blbg==</entry>
+        <entry encoding="base64">dGFyZ2U=</entry>
+        <entry encoding="base64">bGFzdA==</entry>
       </history-search>
     </history>
   </component>
   <component name="VimJumpsSettings">
     <project id="RobotCore-dd27503">
-      <jump line="52" column="34" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/Path.kt" protocol="file" />
-      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/controller.kt" protocol="file" />
-      <jump line="35" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/controller.kt" protocol="file" />
-      <jump line="16" column="24" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/controller.kt" protocol="file" />
-      <jump line="13" column="24" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/sim/FakeGVFConstants.kt" protocol="file" />
-      <jump line="13" column="6" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/FollowPathCommand.kt" protocol="file" />
-      <jump line="49" column="26" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/FollowPathCommand.kt" protocol="file" />
-      <jump line="49" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/GVFTest.kt" protocol="file" />
-      <jump line="100" column="45" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/GVFTest.kt" protocol="file" />
-      <jump line="7" column="26" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/sim/FakeGVFConstants.kt" protocol="file" />
-      <jump line="48" column="71" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt" protocol="file" />
-      <jump line="33" column="23" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/FollowPath.kt" protocol="file" />
-      <jump line="35" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/FollowPath.kt" protocol="file" />
-      <jump line="60" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt" protocol="file" />
-      <jump line="55" column="58" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt" protocol="file" />
-      <jump line="30" column="20" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt" protocol="file" />
-      <jump line="61" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt" protocol="file" />
-      <jump line="76" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/Path.kt" protocol="file" />
-      <jump line="35" column="20" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Teleop.kt" protocol="file" />
-      <jump line="124" column="41" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Teleop.kt" protocol="file" />
-      <jump line="85" column="32" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/sim/TestClass.kt" protocol="file" />
-      <jump line="22" column="32" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/GVFConstants.kt" protocol="file" />
-      <jump line="67" column="3" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/fakehardware/FakePinpoint.kt" protocol="file" />
-      <jump line="26" column="38" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/fakehardware/FakePinpoint.kt" protocol="file" />
-      <jump line="85" column="46" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/Path.kt" protocol="file" />
-      <jump line="20" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Teleop.kt" protocol="file" />
-      <jump line="14" column="30" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/GVFConstants.kt" protocol="file" />
-      <jump line="18" column="32" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/GVFConstants.kt" protocol="file" />
-      <jump line="42" column="46" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/FollowPath.kt" protocol="file" />
-      <jump line="56" column="15" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/FollowPathCommand.kt" protocol="file" />
-      <jump line="24" column="21" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/FollowPath.kt" protocol="file" />
-      <jump line="86" column="46" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/Path.kt" protocol="file" />
-      <jump line="50" column="63" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/FollowPathCommand.kt" protocol="file" />
-      <jump line="21" column="23" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/FollowPath.kt" protocol="file" />
-      <jump line="16" column="31" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/GVFConstants.kt" protocol="file" />
-      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Curve.kt" protocol="file" />
-      <jump line="20" column="23" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ForwardBack.kt" protocol="file" />
-      <jump line="22" column="21" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ForwardBack.kt" protocol="file" />
-      <jump line="7" column="44" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ForwardBack.kt" protocol="file" />
-      <jump line="9" column="21" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/sim/FakeGVFConstants.kt" protocol="file" />
-      <jump line="33" column="13" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/HeadingScalarCalibrator.java" protocol="file" />
-      <jump line="42" column="38" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/HeadingScalarCalibrator.java" protocol="file" />
-      <jump line="78" column="39" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/HeadingScalarCalibrator.java" protocol="file" />
-      <jump line="79" column="30" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/HeadingScalarCalibrator.java" protocol="file" />
-      <jump line="21" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/HeadingScalarCalibrator.java" protocol="file" />
-      <jump line="691" column="68" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="695" column="19" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="715" column="68" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="719" column="19" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="749" column="68" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="752" column="19" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="998" column="18" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="42" column="7" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1031" column="29" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1087" column="14" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1085" column="11" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1109" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1129" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1148" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1195" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1206" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1227" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1245" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1128" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1094" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1066" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1078" column="34" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1076" column="29" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1075" column="26" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="1028" column="53" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="43" column="31" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="1000" column="24" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" protocol="file" />
-      <jump line="10" column="53" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="47" column="99" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="54" column="34" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="41" column="15" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="37" column="17" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="38" column="17" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="74" column="15" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="32" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="75" column="16" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" protocol="file" />
-      <jump line="22" column="7" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="27" column="15" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="38" column="28" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="40" column="23" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="145" column="15" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="150" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="7" column="48" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="9" column="50" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="30" column="7" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="34" column="38" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="35" column="7" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="34" column="20" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Curve.kt" protocol="file" />
-      <jump line="310" column="19" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
-      <jump line="322" column="27" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
-      <jump line="325" column="48" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
-      <jump line="64" column="39" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
-      <jump line="326" column="75" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" protocol="file" />
-      <jump line="33" column="32" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
-      <jump line="37" column="26" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="20" column="27" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="93" column="34" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/SimTest.kt" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" protocol="file" />
+      <jump line="21" column="3" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="82" column="38" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" protocol="file" />
+      <jump line="38" column="25" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Motor.kt" protocol="file" />
+      <jump line="34" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Motor.kt" protocol="file" />
+      <jump line="50" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Motor.kt" protocol="file" />
+      <jump line="99" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Motor.kt" protocol="file" />
+      <jump line="61" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" protocol="file" />
+      <jump line="85" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" protocol="file" />
+      <jump line="88" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" protocol="file" />
+      <jump line="142" column="45" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" protocol="file" />
+      <jump line="34" column="19" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="79" column="32" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="24" column="20" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="29" column="20" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="169" column="25" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" protocol="file" />
+      <jump line="112" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Motor.kt" protocol="file" />
+      <jump line="48" column="32" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="63" column="16" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="37" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="27" column="16" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="25" column="60" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="22" column="16" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="71" column="16" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="154" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" protocol="file" />
+      <jump line="206" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" protocol="file" />
+      <jump line="47" column="29" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt" protocol="file" />
+      <jump line="41" column="25" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt" protocol="file" />
+      <jump line="44" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="57" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt" protocol="file" />
+      <jump line="35" column="49" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt" protocol="file" />
+      <jump line="99" column="12" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeArm.kt" protocol="file" />
+      <jump line="38" column="12" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt" protocol="file" />
+      <jump line="73" column="35" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" protocol="file" />
+      <jump line="34" column="46" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ExtendoTest.kt" protocol="file" />
+      <jump line="28" column="36" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ExtendoTest.kt" protocol="file" />
+      <jump line="40" column="30" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="36" column="47" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/TeleopDrivePowers.kt" protocol="file" />
+      <jump line="41" column="49" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/TeleopDrivePowers.kt" protocol="file" />
+      <jump line="47" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="33" column="12" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="59" column="40" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="24" column="25" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="34" column="16" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="52" column="22" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="51" column="22" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="40" column="29" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="25" column="16" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="38" column="49" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="67" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="26" column="14" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="50" column="21" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="0" column="38" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="35" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="39" column="20" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="72" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="5" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="7" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="8" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="9" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="10" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="11" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="13" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="6" column="6" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="12" column="6" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="28" column="24" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" protocol="file" />
+      <jump line="47" column="37" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
+      <jump line="68" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
+      <jump line="167" column="69" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
+      <jump line="245" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" protocol="file" />
+      <jump line="28" column="55" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="11" column="34" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="12" column="42" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="4" column="45" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Component.kt" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="14" column="27" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Actuator.kt" protocol="file" />
+      <jump line="19" column="8" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Component.kt" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Actuator.kt" protocol="file" />
+      <jump line="12" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Actuator.kt" protocol="file" />
+      <jump line="5" column="10" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Write.kt" protocol="file" />
+      <jump line="29" column="69" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Actuator.kt" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" protocol="file" />
+      <jump line="24" column="0" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="17" column="56" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" protocol="file" />
+      <jump line="29" column="13" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" protocol="file" />
+      <jump line="12" column="28" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" protocol="file" />
+      <jump line="33" column="12" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Actuator.kt" protocol="file" />
+      <jump line="19" column="13" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Actuator.kt" protocol="file" />
+      <jump line="132" column="61" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Auto.kt" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" protocol="file" />
+      <jump line="41" column="16" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" protocol="file" />
+      <jump line="31" column="21" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" protocol="file" />
+      <jump line="79" column="9" filename="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Motor.kt" protocol="file" />
     </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Curve.kt" timestamp="1743302678809">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="20" />
-        <mark key="^" line="34" column="21" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Auto.kt" timestamp="1745733232357">
+        <mark key="[" line="132" column="51" />
+        <mark key="]" line="132" column="62" />
+        <mark key="." line="132" column="61" />
+        <mark key="^" line="132" column="62" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/GoBildaPinpointDriver.java" timestamp="1743479518136">
-        <mark key="&quot;" line="64" column="54" />
-        <mark key="'" line="326" column="75" />
-        <mark key="[" line="315" column="24" />
-        <mark key="]" line="315" column="41" />
-        <mark key="." line="315" column="40" />
-        <mark key="^" line="315" column="41" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Actuator.kt" timestamp="1745812529113">
+        <mark key="&quot;" line="20" column="22" />
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/Teleop.kt" timestamp="1743279335031">
-        <mark key="&quot;" line="35" column="20" />
-        <mark key="'" line="35" column="20" />
-        <mark key="[" line="123" column="42" />
-        <mark key="]" line="124" column="42" />
-        <mark key="." line="124" column="41" />
-        <mark key="^" line="124" column="42" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Write.kt" timestamp="1745797798605">
+        <mark key="&quot;" line="3" column="36" />
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Pinpoint.kt" timestamp="1743231539575">
-        <mark key="&quot;" line="66" column="8" />
-        <mark key="'" line="50" column="71" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="60" column="39" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Extendo.kt" timestamp="1745787448435">
+        <mark key="&quot;" line="175" column="26" />
+        <mark key="[" line="79" column="34" />
+        <mark key="]" line="80" column="4" />
+        <mark key="." line="80" column="3" />
+        <mark key="^" line="80" column="4" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/fakehardware/FakePinpoint.kt" timestamp="1743280309252">
-        <mark key="[" line="66" column="38" />
-        <mark key="]" line="67" column="4" />
-        <mark key="." line="67" column="3" />
-        <mark key="^" line="67" column="4" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/PIDFController.kt" timestamp="1745787533124">
+        <mark key="&quot;" line="29" column="15" />
+        <mark key="'" line="28" column="24" />
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="15" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/GVFConstants.kt" timestamp="1743302343922">
-        <mark key="&quot;" line="10" column="35" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="18" column="34" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/fakehardware/FakeMotor.kt" timestamp="1745786924596">
+        <mark key="&quot;" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/OctoQuadFWv3.java" timestamp="1743479241256">
-        <mark key="&quot;" line="1067" column="34" />
-        <mark key="'" line="1028" column="53" />
-        <mark key="[" line="1067" column="20" />
-        <mark key="]" line="1067" column="35" />
-        <mark key="^" line="1067" column="35" />
-        <mark key="." line="1067" column="34" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/component/MotorTest.kt" timestamp="1745812530631">
+        <mark key="&quot;" line="29" column="13" />
+        <mark key="'" line="50" column="22" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="13" />
+        <mark key="^" line="29" column="14" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/control/controller.kt" timestamp="1743231953368">
-        <mark key="&quot;" line="21" column="35" />
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="21" column="36" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Component.kt" timestamp="1745791215141">
+        <mark key="&quot;" line="5" column="4" />
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/HeadingScalarCalibrator.java" timestamp="1743479276614">
-        <mark key="&quot;" line="21" column="8" />
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="39" />
-        <mark key="." line="42" column="38" />
-        <mark key="^" line="42" column="39" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/CRServo.kt" timestamp="1745812777574">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="52" />
+        <mark key="^" line="14" column="52" />
+        <mark key="." line="14" column="51" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/gvf/Path.kt" timestamp="1743300979005">
-        <mark key="&quot;" line="86" column="46" />
-        <mark key="[" line="86" column="47" />
-        <mark key="]" line="86" column="47" />
-        <mark key="." line="86" column="47" />
-        <mark key="^" line="86" column="48" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/LastWrite.kt" timestamp="1745797780676">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/GVFTest.kt" timestamp="1743227515288">
-        <mark key="&quot;" line="20" column="6" />
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="100" column="39" />
-        <mark key="]" line="100" column="46" />
-        <mark key="." line="100" column="45" />
-        <mark key="^" line="100" column="46" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" timestamp="1745812483511">
+        <mark key="&quot;" line="245" column="4" />
+        <mark key="'" line="167" column="69" />
+        <mark key="[" line="235" column="16" />
+        <mark key="]" line="235" column="16" />
+        <mark key="^" line="233" column="31" />
+        <mark key="." line="235" column="16" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/Drivetrain.kt" timestamp="1743479570865">
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="28" column="48" />
-        <mark key="^" line="25" column="51" />
-        <mark key="." line="28" column="50" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/HWManager.kt" timestamp="1745812481827">
+        <mark key="&quot;" line="21" column="63" />
+        <mark key="[" line="21" column="60" />
+        <mark key="]" line="21" column="64" />
+        <mark key="." line="21" column="63" />
+        <mark key="^" line="21" column="64" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/util/geometry/Rotation2D.kt" timestamp="1743226895210">
-        <mark key="&quot;" line="9" column="12" />
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="17" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/test/java/test/CommandInternalsTest.kt" timestamp="1745733213564">
+        <mark key="&quot;" line="36" column="17" />
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="17" />
+        <mark key="." line="36" column="17" />
+        <mark key="^" line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/sim/FakeGVFConstants.kt" timestamp="1743227840580">
-        <mark key="&quot;" line="7" column="26" />
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="7" column="27" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/Motor.kt" timestamp="1745797790512">
+        <mark key="&quot;" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/FollowPathCommand.kt" timestamp="1743301474509">
-        <mark key="[" line="50" column="64" />
-        <mark key="]" line="50" column="64" />
-        <mark key="." line="50" column="64" />
-        <mark key="^" line="50" column="65" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ArmTest.kt" timestamp="1745733218042">
+        <mark key="&quot;" line="39" column="56" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="35" column="50" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ForwardBack.kt" timestamp="1743302836406">
-        <mark key="&quot;" line="13" column="29" />
-        <mark key="'" line="7" column="44" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="30" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/command/TeleopDrivePowers.kt" timestamp="1745786163862">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/component/OctoQuad.kt" timestamp="1743479274952">
-        <mark key="&quot;" line="15" column="4" />
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="14" column="36" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/subsystem/OuttakeClaw.kt" timestamp="1745733212380">
+        <mark key="&quot;" line="32" column="35" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/FollowPath.kt" timestamp="1743301604199">
-        <mark key="'" line="21" column="23" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="24" />
+      <file name="$USER_HOME$/StudioProjects/RobotCore/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/opmodes/ExtendoTest.kt" timestamp="1745812531883">
+        <mark key="&quot;" line="28" column="36" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="46" />
       </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="CHARACTER_WISE">
-        <text encoding="base64">MzEy</text>
+        <text encoding="base64">OiBEb3VibGU=</text>
       </register>
       <register name="+" type="LINE_WISE">
-        <text encoding="base64">MC4wMSwgMC4wMQowLjAzMjIwNzk3NTM0NjY3MjU4LCAwLjAwOTMxOTQ4MjU0OTgxOTYyMwowLjA3NDY2NTI1NzcxMDE5MDc3LCAwLjAwNzk5Mjk1MjcwMzcwNDc2NgowLjEzNTU4MTczNDE1ODE2MzgyLCAwLjAwNjA2NTgxMTk1MzY3NDY5OAowLjIxMzMyMTMwOTEwODY0MzkxLCAwLjAwMzU5MTYyOTcyMjkwMjc0OAowLjMwNjM4ODYxMTIwOTg4OTgsIDYuMjk4NTc5MzYyODEyOTMxRS00CjAuNDEzNDE2ODQxODUwNDA0NiwgLTAuMDAyNzU2MDczOTM1ODc5MTk2NgowLjUzMzE1NjY2OTg0MDE2MDksIC0wLjAwNjUwMDMzNzY2NzYxMDUwNQowLjY2NDQ2NjA4NDE5MjI2ODksIC0wLjAxMDUzNjAwNTk2Njc3NDU1OQowLjgwNjMwMTEyMzg2OTMwMDUsIC0wLjAxNDc5NjExMzgxNzM0ODQ0CjAuOTU3NzA3NDA5ODQzNzU0NywgLTAuMDE5MjE0NTE2NzI2Nzc4NjM4CjEuMTE3ODEyNDEwODY3NTE3OCwgLTAuMDIzNzI2NTc2MzQxMTY3NjI4CjEuMjg1ODE4Mzc5OTY0NzksIC0wLjAyODI2OTY5OTcyMzgyNwoxLjQ2MDk5NTkwMzg3NDE1MzgsIC0wLjAzMjc4Mzc1NDk2OTUxMzI5NAoxLjY0MjY3ODAxMjQ4NzY0MzIsIC0wLjAzNzIxMTM4MjY3ODcwMDAyCjEuODMwMjU0Nzk5Nzg4NTQ0MywgLTAuMDQxNDk4MjIwMDgzMTg5NjkKMi4wMjMxNjg1MTE4OTY1NywgLTAuMDQ1NTkzMDUyMjQzMzE3NzIKMi4yMjA5MDkwNjE2MTA1MTIsIC0wLjA0OTQ0NzkwMjY4MTU4NjAyCjIuNDIzMDA5OTMyMzE1NzkwMywgLTAuMDUzMDE4MDc0MDM3MTkyMDYKMi42MjkxNjA3NDQ3MzE0NTUzLCAtMC4wNTYzNjg4MDA2NTYwMjM1NwoyLjgzODg0NTA2OTUzMTY3NSwgLTAuMDU5MzUwNDU4MjY3OTA0NDM3CjMuMDUxODAzODA2ODM0NzE3LCAtMC4wNjIwMTU3NDE0MTA2ODg2MTQKMy4yNjc2NjE5NDQ4MDA2MjYsIC0wLjA2NDE3ODc1NDY3MTA3MjM3CjMuNDg2MTk2MTY2MDg4NDA5LCAtMC4wNjU4OTE3NDY1NzMxNjUwNAozLjcwNzAzNzEyNDI0NjAyOSwgLTAuMDY3MDU1NzUwMzY0ODI1NzgKMy45Mjk5OTgxNDYyMzA2MjcsIC0wLjA2NzcxNDQyODMwMDUzMjA0CjQuMTU0NzcxODIxMjM5NDg1NSwgLTAuMDY3Nzg4MTkxMzQ0MTAyNDUKNC4zODEyMDI0OTEyMDc2MjMsIC0wLjA2NzMxMzI2NjE2MDAwNjA5CjQuNjA5MTQzODEyNjUxMTM2LCAtMC4wNjYzMTg1NDg2MzM0NDk2Mgo0LjgzODMwMjEyMDMxNjExLCAtMC4wNjQ2OTgyNjI5OTU4MDQ4OQo1LjA2ODU1NTkwMTAzNzYzNiwgLTAuMDYyNDgwMTM2OTkxMTk1ODkKNS4yOTk3OTU1NzczNjczNTQsIC0wLjA1OTY4Nzk4ODQ3NTM0NDQxCjUuNTMxOTE2Mjc0ODY5NTEyLCAtMC4wNTYzNDI1MzMwNTIxMDk5Ngo1Ljc2NDY3MDYxMTk1NjU4NCwgLTAuMDUyMzQxOTc2NDg4OTczMzk1CjUuOTk3OTcyODMyOTE0NDYyLCAtMC4wNDc3MDgwOTA1NTIyODQxOQo2LjIzMTc0NjczNjU3NjU1NiwgLTAuMDQyNDU5MDY3NTg3NzIwNDUKNi40NjU5MTg1MTc5NzcxNTUsIC0wLjAzNjYxMTc0NDQ5OTAxOTg1NQo2LjcwMDQ3MTMwNDUxMjgxNSwgLTAuMDMwMTE1OTQ5NDA1Mzc5MzIzCjYuOTM1MjYzOTQ1Nzc1NDAyLCAtMC4wMjMwODk0NjMxODI4NTA4Mwo3LjE3MDIxMjkwMzE2MjExMSwgLTAuMDE1NDI1MTgyMDMxNDc0MDQzCjcuNDA1MjM5NzYzOTU0OTk2LCAtMC4wMDcwMjcyMzU2MDc4ODIwNzI1CjcuNjQwMjA0NDE2Njg5NjgsIDAuMDAxOTYxMDk0Nzk2MTIwODMwNwo3Ljg3NTEwODAxMjE5MzkzNSwgMC4wMTE1ODYzNDkyNDkyMzg1Mwo4LjEwOTk1MDk5MTk4MTYxLCAwLjAyMTg5MzIyMTIxNjkyNTk0Nwo4LjM0NDYxMjYyMDYxNjc4MywgMC4wMzI3NTA2Njg2NzUyMzM5MTQKOC41NzkwOTkwMDI3NzAwMjUsIDAuMDQ0MjA1MTIyNzE5MTU0MDQKOC44MTM0MTUzMjY2NDA5NTcsIDAuMDU2MzAxMTg5Mjc4Nzc0MTkKOS4wNDc0NTM0NDg3NjI0NjQsIDAuMDY4OTEyNTE2MzM5MjM1Ngo5LjI4MTIyMzQ5ODYxNTg0MywgMC4wODIwODUzNjI3NDAwNTAyOAo5LjUxNDczNDUxOTU4MTM4LCAwLjA5NTg2NDE4NzYwNjg2NTUKOS43NDc4ODg5NzExNjU3NzUsIDAuMTEwMTI1OTYxNzQxMjI4NjQKOS45ODA3MDAyNDA2NTUxNTksIDAuMTI0OTE2NzY1MjUxNjU4MDgKMTAuMjEzMTgwNDkwODg1MiwgMC4xNDAyODA5MDQxODA1NDY2NwoxMC40NDUyNDEyMDY0MjExMDUsIDAuMTU2MDk3NjE2ODM1ODI0NwoxMC42NzY4OTgzOTcyODMyMjgsIDAuMTcyNDEyODM1NDIyMjM3NDUKMTAuOTA4MTY2NzM2NzgwNTkzLCAwLjE4OTI3MDc0MTQ4MjQ3NTUKMTEuMTM4OTY1NDg2MjYzNjg4LCAwLjIwNjU1MjAzNTg5NjUwMjE3CjExLjM2OTMxMjc1MDUzNzgzMiwgMC4yMjQzMDI1NTY5ODg5MjMyNgoxMS41OTkyMjUyMDcyNDIzNDEsIDAuMjQyNTY2NDEyMTA2MzkxODUKMTEuODI4NTUyODQ4MTE4LCAwLjI2MTI2NzM2MjM3MjMzNjMzCjEyLjA1NzMxODE1ODY0MzAyMywgMC4yODA0NDU1NjIyMzM3NTgyCjEyLjI4NTU0MjA1NDU5Mjg4LCAwLjMwMDEzOTcwNzE4NjU0MjM3CjEyLjUxMzIwMTA1MzgxMzk3LCAwLjMyMDMwNTg3OTEwNzAyMjcKMTIuNzQwMjY0NTU0MDIxNzUxLCAwLjM0MDg4MDEyMzU2Mzk0MDkzCjEyLjk2Njc1NTE5NzUyNzU5MiwgMC4zNjE5MDM3Mjc5OTY4ODcxCjEzLjE5MjY1MzE2NTIwMTAzLCAwLjM4MzMzNTA4MzkxMzg2NzYKMTMuNDE3OTgxMDM0OTE4MDE4LCAwLjQwNTIxMjE3ODg1MTU4ODMzCjEzLjY0MjcxMTUzMzY0MjI0LCAwLjQyNzQ3MjEyMjQ2NDc3NTIzCjEzLjg2NjgyODE1MTU3MjczNSwgMC40NTAwNzU1NjcwODYxNzYyCjE0LjA5MDM1NDcwOTk5ODgxOCwgMC40NzMwNjMwMjgzNTIxNDc5CjE0LjMxMzMxMzQwNzY3NzY5MywgMC40OTY0NzM1Njc3OTM5ODEyCjE0LjUzNTY0Mjc2NzY4Nzk3NSwgMC41MjAxNjMwNDM5ODQwMDYKMTQuNzU3MzY3NjI4ODcwMDM5LCAwLjU0NDE3NDU1ODc1OTM5NzQKMTQuOTc4NTExMTU0OTM2NzQ0LCAwLjU2ODU0OTY1ODY0MTI5MzcKMTUuMTk5MDU5ODg2MzIwNjY1LCAwLjU5MzI0NjM5NDY5NjY0MDYKMTUuNDE4OTk0ODgyMjg1NDc1LCAwLjYxODIwMzQ3NTQzMjI0NTIKMTUuNjM4MzQwMDU5NDc0NzAyLCAwLjY0MzQ2NDk3MDAyNjEzMTYKMTUuODU3MDg0NDk3MDUxMTQsIDAuNjY4OTkwOTc0MTM2MzEzMQoxNi4wNzUyNTE2ODY4OTM1MjMsIDAuNjk0ODIyMzc2NDc1NjMyCjE2LjI5MjgyNDczMDYzMTcxNSwgMC43MjA4OTg0NDEwMTcyOTY2CjE2LjUwOTc5NTA4NjE2NjY0NCwgMC43NDcxODE0MTEyMTQ4Mzc5CjE2LjcyNjE4NjcwNjU4OTU3NiwgMC43NzM3MTQ2MzQ0MjEzNTE0CjE2Ljk0MjAyMTkwODc2Nzk3NywgMC44MDA1Mzk4OTQ1NjA4ODgKMTcuMTU3MjU2MTUwMTg1NzM4LCAwLjgyNzUxNDA0ODI1MTk3NDIKMTcuMzcxOTEzNzAxOTc0MDczLCAwLjg1NDY4Mjk1NTA0NjE1NTgKMTcuNTg2MDE3MTc2NzUzNDIzLCAwLjg4MjA5MDgwNzkyNjY1MzUKMTcuNzk5NTU5OTg1OTQ4NjM3LCAwLjkwOTY5NzI2MTk2NjAwOTgKMTguMDEyNTMxNTg2OTYzNzA3LCAwLjkzNzQ0MzI0MDM0MzE2MjQKMTguMjI0OTU0NzQ2MDAyMjY1LCAwLjk2NTM3NTM3MDEwMzI0MTYKMTguNDM2ODI0ODUzOTg4MDc4LCAwLjk5MzQ1NTUzMzkwOTYwODgKMTguNjQ4MTY0MDY4OTY4NTk0LCAxLjAyMTcyNzI0NDU4Mjc3MjMKMTguODU4OTYzMzcyNDA4MTQ0LCAxLjA1MDEzMjI1MDY1MzQyMzkKMTkuMDY5MjIwMDI5NjEyOTIsIDEuMDc4NjM0ODExOTIwMDQ4CjE5LjI3ODk1NjEzOTgwNzQ5OCwgMS4xMDcyODA3Njk4MjUwNDQ2CjE5LjQ4ODEwNjM5NjI4MTQzLCAxLjEzNjEzNzc3NDY5MDE4OTcKMTkuNjk2NjQ1MDAxNDk2MTcyLCAxLjE2NTA2MTk4MjY5MjcxNTgKMTkuOTA0MzM1NjA2MjcyMTYsIDEuMTkzMDg3MTQ1OTc4NDE5NAoyMC4xMTEyMjE0MjkyNTMxMjQsIDEuMjIwMzI0MjA2Mjc1NzcxCjIwLjMxNzM0MzM2Mzk3ODU2NiwgMS4yNDY4Nzk3MDczOTExNjg2CjIwLjUyMjcxNDcyODYwNzI1NSwgMS4yNzI3NDkxNzgwMDM0MjgKMjAuNzI3MzUyODE5MDI5NzksIDEuMjk3OTM1NDY0ODgxNDg1CjIwLjkzMTI5NjUwODg0MDE5NSwgMS4zMjI1NDAxNDgxOTk0NjE0CjIxLjEzNDU2NDI5MTAzNTQ2LCAxLjM0NjU3NjMxMjA1MzYyMzgKMjEuMzM3MTkyNzE4Nzc4MDY2LCAxLjM3MDEzODMzMjM1ODE1NTcKMjEuNTM5MTk1Njc5ODMwMjMsIDEuMzkzMjE0MDI5MTg1MjMxCjIxLjc0MDU5MDQyMjgxOTAzLCAxLjQxNTgwOTI1MDU1ODA5CjIxLjk0MTQxMTAyNjA0NjI1NywgMS40MzgwMTUyMjkyNjQyNjA3CjIyLjE0MTY4OTI2Nzk4OTA4MywgMS40NTk5MTk3Mzk1OTI0NDc3CjIyLjM0MTQyMTg0NTUwMTM5NywgMS40ODE0MDgxMTcyOTExMDAyCjIyLjU0MDU1NTM0MDAwMjI4NSwgMS41MDI1ODI5MTc3NjgwMzk2CjIyLjczOTEyMjc2MzMyMTkyLCAxLjUyMzUyNTU0NTIzNDYxMgoyMi45MzcxNDE4MzM5MTg5NTcsIDEuNTQ0MjIxNzIwMTEzMTgzMQoyMy4xMzQ1NDMzNzAxODgxNywgMS41NjQ2NDkzNzQ0MTkwNjA4CjIzLjMzMTM2MDg3Nzc1OTE0NSwgMS41ODQ4ODk5NzgzMjgzNDc0CjIzLjUyNzYxNDgxODM3OTg3NywgMS42MDQ5Mjg3NDMwNjU1NDU0CjIzLjcyMzMzNjMwODU4MTUyNiwgMS42MjQ4NDIwMTk3NjAwMTkKMjMuOTE4NTQzNDU5MDU2MTA3LCAxLjY0NDU5MzQ4MTk4Mjg1NDMKMjQuMTEzMTYzODgxNjg2MDE3LCAxLjY2NDE3NTQ3NjI1MDY0ODIKMjQuMzA3MjI5OTUyMjgzOTIyLCAxLjY4MzY1OTY4MDUxODgwMTUKMjQuNTAwNzcxNjc1ODA0NDgsIDEuNzAzMTE1MTkwNjUwMjE4NAoyNC42OTM4MDQwMTE1NjA1MjMsIDEuNzIyNDA1MTc0NjkwMDA1CjI0Ljg4NjM1NjQ1MDQwNDkzLCAxLjc0MTYwMjIwMzQ1NDU5NTMKMjUuMDc4MzYxOTE0ODI2MTY0LCAxLjc2MDc4MDQ5NTM5NDc1ODgKMjUuMjY5NzU4MTIzNDQyNzc0LCAxLjc3OTkxODE5NTYyNjg3NTcKMjUuNDYwNTc0MDI0NDA5ODUsIDEuNzk4OTcwMTE2NzMxOTE3CjI1LjY1MDgyMDQwNDE4NDY5LCAxLjgxNjkyNDQ3NzAwNDU0OQoyNS44NDA1NDg0MjcwMzU0MDQsIDEuODMzODU5Mjc0MjczNDQ1NgoyNi4wMjk4MDU0MjA4NDk3MDUsIDEuODQ5ODUwMTI1ODAzNTczCjI2LjIxODYzNjQwMTE3NTM1LCAxLjg2NDc3OTQ1MTU4ODg4NjUKMjYuNDA2OTAwMzc2Nzc1OTQ4LCAxLjg3ODcyMzQ5ODU4OTg0MTYKMjYuNTk0NjQ0ODYxNTI4MDI1LCAxLjg5MTc1NTQ2OTA3NzkzMDYKMjYuNzgxOTEzOTUzNTI1NzEzLCAxLjkwMzk0NjI4NTUxNjgzODgKMjYuOTY4NzU2NDQ1MTk1MDQsIDEuOTE1MTYzNjg2NDA0OTYxMwoyNy4xNTUyMTMwNTQzMTYzLCAxLjkyNTQ4MTg3NTQyMjQ1MTYKMjcuMzQxMjI0Njk0ODA1OTEsIDEuOTM0OTY3MjkwNTYwMzI3NQoyNy41MjY3MzYxMTU5NTgwNjYsIDEuOTQzNjc5NDgzNTkxNjY4NAoyNy43MTE3OTQwMjQ0MzkxNDMsIDEuOTUxNTg1MTkwOTg1MDM2NAoyNy44OTY0NDQ2NjMyOTI5NjgsIDEuOTU4NjQ2NTQ2MDQ2OTU0CjI4LjA4MDcyNDY2NzEwMDI2MywgMS45NjQ5MzI0NzU4NzMyNzEKMjguMjY0NTYxMDE3MDE3MTU4LCAxLjk3MDQ5OTY2NDA4MDA3NzIKMjguNDQ3OTA5MjMxMTk5MTYsIDEuOTc1MzExMzE3MTEyMzI4NAoyOC42MzA4MDc0MTUzOTE1MjYsIDEuOTc5NDI4NTU4MTYxNDc2MwoyOC44MTMzMDExMTg5NjUyOTIsIDEuOTgyODIyOTMyNjUzODkxNQoyOC45OTUzMzY0NzE0NTQzLCAxLjk4NTU0Njk5MjEwNDgzNTQKMjkuMTc2OTQ4Njg2NjA4MTQyLCAxLjk4NzY1ODY2MzI1NjEwMzcKMjkuMzU4MDkwOTk3MjI2NTM3LCAxLjk4OTEwMzYxNDQxMzc5ODMKMjkuNTM4Nzk4NzAyNDcxNjg4LCAxLjk4OTkzOTIyNTU1NzQwMTgKMjkuNzE5MDE0ODQ3MzU4OTAzLCAxLjk5MDIwNzU0MjQ0MzQxNgoyOS44OTg3ODc3ODM5MDcsIDEuOTg5ODcwOTc3MjM5MTk0NwozMC4wNzgxNTA0NzQwMjI3NjMsIDEuOTg4OTg0NTU1MTIyNTQyNQozMC4yNTcwNTIyOTg1ODI2OTYsIDEuOTg3NTAwMzMzOTk2MzYzNwozMC40MzU0MzU0NzQ5MDQ1OSwgMS45ODU0NTY5Mzk0ODcwODcxCjMwLjYxMzMzNTA3NjIyNjk3OCwgMS45ODI5MDQyODQ3NjM4MDIKMzAuNzkwNzg0MDE5NzIyOTY3LCAxLjk3OTg5MDY2NDk0OTcxOQozMC45Njc4MTMxODc4OTk2NDQsIDEuOTc2NDYyNzkzNzEwNTg5CjMxLjE0NDI2NDE0NTI3NDg4NSwgMS45NzI2Mjc5MTc1MjY2NTUKMzEuMzIwMjA5NDAxNTM5MDQyLCAxLjk2ODI0OTk4NDEyMjg0NwozMS40OTU2ODI2OTAzMDQwNTgsIDEuOTYzMzc4NDUwODI5MTYzNgozMS42NzA3MTU3MzA2Mjg4NzQsIDEuOTU4MDYxMTMwNjA1MjQyCjMxLjg0NTI0OTQ0ODU3MTk1NSwgMS45NTIzMjM5ODk1MTU5NDYKMzIuMDE5MjIwOTM4NDQ0Nzc1LCAxLjk0NjE4Njk2MDUyMjE2NDIKMzIuMTkyNjY0MTk2MDg0NDg2LCAxLjkzOTY5MzA1MTYxMDg1MDQKMzIuMzY1NjExMzAyODcxOCwgMS45MzI4ODM4NjU2NDMxMDc1CjMyLjUzODAyNTk2MDk4NTcxLCAxLjkyNTY5NDU2NTc1NjM2MTMKMzIuNzA5OTQwMzY3NjUyOTI2LCAxLjkxODE2MzAyODYzMTQ2NjEKMzIuODgxMjkxODMwMTI3OTgsIDEuOTEwMzAxMzA1MTQ1OTQ5MgozMy4wNTIxMTMwOTEyMTcyOCwgMS45MDIxNDczMTQwOTgyNjI4CjMzLjIyMjM3MjI1ODgxMjgzLCAxLjg5MzYyNzAxMDIxMDY0OAozMy4zOTIxMDIyOTM5MzUwOCwgMS44ODQ3Nzk2NDkwMTAzMzIzCjMzLjU2MTMzNDM1OTkwOTM3LCAxLjg3NTY0MzIwNTIyMjc2OTIKMzMuNzMwMDA1NjQ4NTU4NjIsIDEuODY2MjI3MjIyMzg0NjY3OQozMy44OTgwNjE2NDU0NzcxNTYsIDEuODU2NTQzNzI2MjQ2OTU5CjM0LjA2NTU2MTM4NDQ4NzQ3NCwgMS44NDY1NDUyMDA3NTQzNTk1CjM0LjIzMjUzNjY4NzMyNzIzLCAxLjgzNjI2NjU5MjE4MDAwODUKMzQuMzk5MDE3NjY4NTY1NTEsIDEuODI1NzQxNzI5NTA4MjI0NgozNC41NjQ4NTYxMTc5NzgwMiwgMS44MTQ5NDYxMDczMzY1MTA1CjM0LjczMDA4NjY1ODU1NDk4LCAxLjgwMzkxMjAyMjk1NTI0MjEKMzQuODk0NzQyMTQwNzY0NDgsIDEuNzkyNjcwNzY5NDU0MjAxMgozNS4wNTg4NTM3MjgyOTA3NCwgMS43ODEyNTI2NTc3NDIzNTMzCjM1LjIyMjM2OTU0Njg2MzQzLCAxLjc2OTY1ODc4NTc4NTA1MDgKMzUuMzg1MjM0NjYwNTkwOTUsIDEuNzU3ODg1MzU1MTE3NTE4OQozNS41NDc0ODI4MTEzMzUwNiwgMS43NDU5NjA3OTEyOTM2MTA2CjM1LjcwOTE0NjA2NjM1NDM1LCAxLjczMzkxMjYzOTY5MjQ5OTgKMzUuODcwMjU0ODk2MjMzMjM0LCAxLjcyMTc2NzU4NTM5MDk2NwozNi4wMzA3MzgwNzI2OTI3MywgMS43MDk1MTM4ODM0MDk1MDYzCjM2LjE5MDU0Mjg1MjAwNDgsIDEuNjk3MTQyNDE0Njg2NzczNQozNi4zNDk3MzUxMTY2MzIwOSwgMS42ODQ1OTU1NjU0OTQyOTEyCjM2LjUwODM0NjUzNDcxNjY5LCAxLjY3MTg5OTA4NjQwMDY4MDkKMzYuNjY2NDA3MjA3MDg5Mjg2LCAxLjY1OTA3Nzk0NjA2NzAxMDIKMzYuODIzODQ3NDkzMDE2MTYsIDEuNjQ2MTE2NzQ2MzQwMTY1OAozNi45ODA2MTUyNjA3MTkxMDUsIDEuNjMzMDAzMDc2NjUwMDgzOAozNy4xMzY3NDQwODY1MzI0MSwgMS42MTk3NjA2ODI5MjY5OTQ0CjM3LjI5MjI2NTkzNjc2ODU0NCwgMS42MDY0MTI2MDg3NjgxMDU0CjM3LjQ0NzIxMTI0MTc2MDk4LCAxLjU5Mjk4MTIwODQ0OTM1ODIKMzcuNjAxNTEzMzI5NzY3NSwgMS41Nzk0NDcwMDgwODE0ODkzCjM3Ljc1NTEyMzI1MDc4MzM2LCAxLjU2NTc5NDM3NzA5MzI1NQozNy45MDgwNzQ3NjI3NDk1OSwgMS41NTIwNDQ5MTEwMTYyNzgKMzguMDYwNDAwMDQwNzAzNDMsIDEuNTM4MjE5NTczNzU4MTkyNwozOC4yMTIxMjk3NDc5MjY2MywgMS41MjQzMzg3MDkxNTM0MjMKMzguMzYzMjAwNzk2MTIyNzYsIDEuNTEwMzc5ODYzNTk4ODE3MwozOC41MTM1NjczMTM2NzQ3OSwgMS40OTYzMjQ5NTE2MzQ3NjAzCjM4LjY2MzI2MzA5NTg4NjU2LCAxLjQ4MjE5MzkzOTgyNjYxOTcKMzguODEyMzIwMzc5OTY4NjYsIDEuNDY4MDA2MjE0MjY1MDU1CjM4Ljk2MDc2OTkxMzg4OTAzLCAxLjQ1Mzc4MDU5MTI1MDIKMzkuMTA4NTUxMzA5NzI0NywgMS40Mzk0OTE5NTg0NDQ1MzMKMzkuMjU1Njk2MjcwODk5MzUsIDEuNDI1MTU2ODQzMTM3NTc2MwozOS40MDIxNDQ1NDk1NzYwNywgMS40MTA3NDY2NDAwMjY1OTMKMzkuNTQ3OTI5MjAyOTIzMTcsIDEuMzk2MjgwMjMwNTEyMTAyCjM5LjY5MzA4MTc4NTMyMDAxLCAxLjM4MTc3NTkzMzIyNzE5MjYKMzkuODM3NTQ0MzU0MzMzNTI0LCAxLjM2NzIwNjY1MDQxMjUxODQKMzkuOTgxMzQ5MzIzNzg1MzY2LCAxLjM1MjU4ODU5MDQ5MDQ2MTgKNDAuMTI0NTI3NjM4MzcyNzgsIDEuMzM3OTM3NTI0MTAzMjUzOAo0MC4yNjcwMjA4MTQzMDY0ODQsIDEuMzIzMjIyNTc2MDYyNDA4Ngo0MC40MDg4NjExNTMwMjg5NiwgMS4zMDg0NjE5MDA4NzA3MzY4CjQwLjU0OTk5MzAwODQ5MTU0LCAxLjI5MzYyNjc5NTA1NTY5ODYKNDAuNjkwNDQ5NDQ2Mjk0MjQsIDEuMjc4NzMzNDQ4MTMyMjMyCjQwLjgzMDI2MjA0OTM2MjA4LCAxLjI2Mzc5NzYwMjAwMTEwNQo0MC45Njk0NjA5ODI0MzQ0NSwgMS4yNDg4MzQ1NTcyODk4MjI3CjQxLjEwNzk4ODkxOTA4MDg1LCAxLjIzMzgxMTMwMTIxNDAyODYKNDEuMjQ1NzkyMTA1MjE5NDUsIDEuMjE4Njk3NjkyMjkwNDIzOAo0MS4zODI5MDQyMzQ4MjY3MiwgMS4yMDM1MTAxNTk5NDY4MTgzCjQxLjUxOTM1NzUwMzk4OTI1LCAxLjE4ODI2NDY2NjMyOTU3MzcKNDEuNjU1MTgyNjc1NDE4MTgsIDEuMTcyOTc2NzE0NDA0ODI3NQo0MS43OTA0MDkxNDAxMzc4LCAxLjE1NzY2MTM1NjM5NzIxNzYKNDEuOTI0ODk1ODY5OTMwMDcsIDEuMTQyMjM0MDExMjcwMzc4Ngo0Mi4wNTg2NzcxOTA4NDEyMSwgMS4xMjY3MTE1NzYzNTQwMjY3CjQyLjE5MTc4NTkxMzgxOTAyNSwgMS4xMTExMTA0NTMzNzM3Mzk3CjQyLjMyNDI1MzM5OTQ0Mjg1LCAxLjA5NTQ0NjU1ODYxMDg3Ngo0Mi40NTYxMDk2MTk4NTA3MSwgMS4wNzk3MzUzMzMyMzgxMTMyCjQyLjU4NzMwMDk3NzY5NDIzLCAxLjA2Mzk0MTQxNjMwNTUzMDUKNDIuNzE3Nzc2MDc4NDk1NjQsIDEuMDQ4MDI4MTU0NTc0NjI2NAo0Mi44NDc1NjgyNDEzMTUyNCwgMS4wMzIwMTI1MzU3MjYwOTg3CjQyLjk3NjcwOTMyMTEyNjg4LCAxLjAxNTkxMTAyOTYwOTA5MzQKNDMuMTA1MTgyODMyMjcwNjcsIDAuOTk5ODEzODE2ODI1ODk4MQo0My4yMzI5Mzc3OTg0Mzk3MiwgMC45ODM2Nzk2MTYxODYxNzU1CjQzLjM2MDAwNjUzOTE2ODQ5LCAwLjk2NzUxODM2NDY3MTg3OTcKNDMuNDg2MzQwNTQ1MjU1ODksIDAuOTUxMjg4MzY2NDgwNzA3Mgo0My42MTE5NzMxNTAzMjE1MiwgMC45MzUwMDI0MzczMzk1OTcxCjQzLjczNjkzNjI0NDcwODg4NiwgMC45MTg2NzMwNTE4NjI4MDI4CjQzLjg2MTE4MjM5Mzg4MTQ0LCAwLjkwMjI2MDY5NTI2ODQ0NDgKNDMuOTg0NzQ0MDI0MTE0OTcsIDAuODg1Nzc2OTk3OTI3ODUwNwo0NC4xMDc2NTIxNTQ4NjQzMjYsIDAuODY5MjMzMzEyNjc5MzUyMQo0NC4yMjk4NTkxMDU0NDE4OTYsIDAuODUyNTg4Mjk5NzY3MjU5Ngo0NC4zNTEzNDg2MzQzMTA2OSwgMC44MzU5MjY3ODc4MTI5NjU1CjQ0LjQ3MjA3NTAzMzY2MTE4NCwgMC44MTkyMDQzNzM4NDM2NTcxCjQ0LjU5MjA3MjA4NTQ2NTMxLCAwLjgwMjQyOTc5MTU2Nzc2NTMKNDQuNzExMzcyMTI2NDUwOTEsIDAuNzg1NjExNjMxMzQ3MDQ0Ngo0NC44Mjk5NTUxMDgxNTIwMzUsIDAuNzY4ODMwOTgwMTM2NjM2OQo0NC45NDc3Nzg5NDcxODc5MSwgMC43NTIwNDI0Nzc3NTc2ODk1CjQ1LjA2NDgwMzcyMTQ0ODY3NiwgMC43MzUyMDM0NzQ2NzUwNTc4CjQ1LjE4MTA2NDY1Njc0OTc0LCAwLjcxODMyMzQ2NzY2NzAyMzgKNDUuMjk2NTk1NDkxMjQzMTQsIDAuNzAxNDExNzM5OTIyMzQ3NQo0NS40MTEzNzcwMjk3NTE1NCwgMC42ODQ1NDgyOTg2OTQ0NjYxCjQ1LjUyNTQ0MTYyNTY2MTg0LCAwLjY2NzczNzM2MzI0MTg5OTEKNDUuNjM4Njc5NTczNjMwMTgsIDAuNjUwODc5NjUyMDk4OTQ2NQo0NS43NTExMjY4MjU2Mjg2OCwgMC42MzM5ODI2Mzk3MzE2NDM3CjQ1Ljg2MjgxNzgyNTc2MTYyLCAwLjYxNzA1MzY4NTY3NDY4NzIKNDUuOTczNzg1NTczMDI0OTgsIDAuNjAwMTAwMDI3OTAyMDM2Mgo0Ni4wODQwNjE2ODE0MzE2OSwgMC41ODMxMjg3NzcyMjQ2NzU2CjQ2LjE5MzU1MzUzMjQ2ODk3NSwgMC41NjYxNjMwMTI1NzYwNjQ2CjQ2LjMwMjE3MzMwMjE4MywgMC41NDkyMjcxNzYxNzkwNjY2CjQ2LjQwOTk1ODE3MTI3NDI4LCAwLjUzMjMyNTE3Mzk5NTYwMDkKNDYuNTE2OTQzNzg4MTA2NTEsIDAuNTE1NDYwOTI1NzMzNjgzOQo0Ni42MjMxNjQzMzEwNTkwOTQsIDAuNDk4NjM4MzU0MzM1ODQ2NzUKNDYuNzI4NjUyNTY4MzQ4MDI1LCAwLjQ4MTg2MTM3NjU0MTMwMDgKNDYuODMzMzU5ODcxNjMwNTQsIDAuNDY1MDcwOTQzMDkyNzc2CjQ2LjkzNzMxOTY1MjQ2NTc4LCAwLjQ0ODI3MTQ0NjE0ODQwNjkKNDcuMDQwNDg4Njk0ODE0OTcsIDAuNDMxNDA3NDIzNTEzNDE4Nwo0Ny4xNDI4NDA5NDk0ODIyNywgMC40MTQ1NjIxMDc0MTA0MzA4CjQ3LjI0NDM1Njk4NjcxNDk1NSwgMC4zOTc4MDU1NTA4MTY5OTM3Ngo0Ny4zNDUwMDUwMzM2NjE4MDYsIDAuMzgxMDg0ODAzNzg3MTI0ODQKNDcuNDQ0ODIxNjIyNjE5NjMsIDAuMzY0NDAxNzI3ODI0Njk5Ngo0Ny41NDM4NDE3OTMxOTE5MTYsIDAuMzQ3NzU4MjgwNDgxODYwNDcKNDcuNjQyMDk5MTUyNzM0NzEsIDAuMzMxMTU2NTAwODg0MDQyNDcKNDcuNzM5NTUzMTM4MzA3NzYsIDAuMzE0NTM4MzUzNjAwNjk2NjUKNDcuODM2MTEzNTgwODE2NTQ0LCAwLjI5NzkyNTQyNzAyNDI4OTgKNDcuOTMxODE3ODkzODg2MiwgMC4yODEzMTkzOTQxMjgwMjA2CjQ4LjAyNjcwMTk2MzYxODI0NCwgMC4yNjQ3MjIwNDkyNDU0NTU3CjQ4LjEyMDc0MzMxNDk1OTE0LCAwLjI0ODIwMjc2NzQyMjkwNTkKNDguMjEzOTc3MTMzNTM1NjEsIDAuMjMxNzYxNzg0NTg0MTE3Mgo0OC4zMDY0MzcxNzk2OTI4MSwgMC4yMTUzOTk0NjAwNzcyMzE2NQo0OC4zOTc5NTAwMDc3MzA2NjQsIDAuMTk5MDUyNTUxMzM3OTI1MzIKNDguNDg4NTU1MDAzNDg2MDU2LCAwLjE4MjcyMTk2ODU4MjgyMDEKNDguNTc4Mjg5OTU0OTMwNywgMC4xNjY0MDg3NjE4OTk4NTQ0Mwo0OC42NjcxOTExMTY2MDU4NywgMC4xNTAxMTQxMDQyNjI3NDg0CjQ4Ljc1NTI5MzI3MTQ4MTExNSwgMC4xMzM4MzkyNzYwMjU4Mzk2NAo0OC44NDI1NzA0NDA5MjE4LCAwLjExNzY1MzQxMTAzMjA5MjE2CjQ4LjkyODkxOTg2Nzc3MDg1LCAwLjEwMTU1NjQxNDY0NTgyNDIKNDkuMDE0MzA5NTMzMzg5Nzg1LCAwLjA4NTQ4MzE1MTY4OTg3NzI5CjQ5LjA5ODc3OTE0NzgwNDcwNiwgMC4wNjk0MzM5ODUyODc0MDM1NAo0OS4xODIzNjY4MTczNjg2OCwgMC4wNTM0MDk0MTY5Nzg2NjIwNQo0OS4yNjQzMjEzMzQ1OTkwMSwgMC4wMzY3MDQ3NDMwMjA2NDc3MjUKNDkuMzQ0NzE0OTM4MjYyODIsIDAuMDE5MzU4MjQ0NTE4NTg0NTU0CjQ5LjQyMzYxNzE1OTM1MzE4NSwgMC4wMDE0MDYyMjUwMzc2ODAyODEzCjQ5LjUwMTAzMTE3NjAwMDk1LCAtMC4wMTcxNzQ3NDU4Mzk4OTA1MQo0OS41NzUzMjk5NTUwOTYzNSwgLTAuMDM2OTMxNTk0OTgzNDUyNzk3CjQ5LjY0NjY0NTU1OTc0MjczLCAtMC4wNTc4Mjg5ODE3MDQzMTAyODUKNDkuNzE1MTA0NTAzODIxMDUsIC0wLjA3OTgzMjE5Mjg1MzcxMTUzCjQ5Ljc4MDgyNzk4OTgyMDA1LCAtMC4xMDI5MDcxNzM3NTU0MDU0MQo0OS44NDM5MzIxMzYyNTA4NiwgLTAuMTI3MDIwNTUzNjc4MjAxMwo0OS45MDQ1MjgxOTUxMDQwMywgLTAuMTUyMTM5NjY2Mzk1MzU1Mwo0OS45NjI3MjI3NTk3ODgwNSwgLTAuMTc4MjMyNTY2MzI5Njk0NTMKNTAuMDE4NjE3OTYzOTcwNjU1LCAtMC4yMDUyNjgwNDA3Mzk0ODUwNwo1MC4wNzIzMTE2NzE3MjYzMiwgLTAuMjMzMjE1NjE4MzU5ODE3MzgKNTAuMTIzODk3NjU5Mzc2MjksIC0wLjI2MjA0NTU3NDg3NzQyNjEKNTAuMTczNDY1Nzg5MzkwOTIsIC0wLjI5MTcyODkzNTU4MzA5OTkKNTAuMjIxMTAyMTc2NzA3OTk0LCAtMC4zMjIyMzc0NzU1MTQ5MjA2CjUwLjI2NjgyNjk2MjY1ODM1LCAtMC4zNTM0NzkxMzM5MjUzODA4CjUwLjMxMDcyMTA0MjgzNzYyLCAtMC4zODU0MzA2MDA3OTA1MTY4CjUwLjM1Mjg2MTkzNDQzNjIzNCwgLTAuNDE4MDY5MDg4MzA0MzA4CjUwLjM5MzMyMzkyMDI2NTQ4LCAtMC40NTEzNzIzMzk1MTU0ODkzCjUwLjQzMjE3ODE4NjQ4MTQsIC0wLjQ4NTMxODYzNDM4MjU5MDgKNTAuNDY5NDMwMDE4NzQwOTgsIC0wLjUxOTk0ODgxNTQ3NjI1NDQKNTAuNTA1MTQ3MDg0MTAxNTksIC0wLjU1NTI0MDQ2NDQ4MTQyOTQKNTAuNTM5MzI3NDU3Njk3NzEsIC0wLjU5MTEwNDQ3NjQ2ODAwMTIKNTAuNTcyMDM1MTY0Njg5MjgsIC0wLjYyNzUyMjkwODU5NTA4NTEKNTAuNjAzMzMxNTQwMTAxOTA1LCAtMC42NjQ0NzgxNjM1NTExMTQ3CjUwLjYzMzI3NTM0NTA4OTI0LCAtMC43MDE5NTMwMDQ1ODAzMzcyCjUwLjY2MTg2MTg5NjU3ODQ4LCAtMC43Mzk4Njk5NjMzMDk1ODYxCjUwLjY4OTE0NjkwMzYzNzcwNiwgLTAuNzc4MjE1NTE0NjEwMTAyMwo1MC43MTUxODM3NDYyMjY0MSwgLTAuODE2OTc2MzQ1NzkyOTUwOAo1MC43Mzk5NjM2NTQxODE1MywgLTAuODU2MjAwMjAzODA4ODcyNgo1MC43NjM1Mzc3MDIxOTIwMjUsIC0wLjg5NTg3MjI3NTE2NzUyMzgKNTAuNzg2MDE1NjUzOTU4NTEsIC0wLjkzNTkxNTkzNjcwNDAyMgo1MC44MDY2NTgzMDk0MDAyNiwgLTAuOTc1NTU0MTgzMDQxMDY5Mgo1MC44MjU1MzA4NDMwMjkzNSwgLTEuMDE0ODEwOTc3NTE5MzcxNwo1MC44NDI2MzEzNzg1NDAzNywgLTEuMDUzNjQ1MDAxODQ2Mzc4OAo1MC44NTgwMjM1MzIzMDI3NDUsIC0xLjA5MjA3ODMzOTE1NjkyMzMKNTAuODcxNzY4NjIwOTY0NzYsIC0xLjEzMDEzMTE0OTY2NDQzMzcKNTAuODgzOTI1NzI4NTk4MywgLTEuMTY3ODIxODM2NzI3MDI4Ngo1MC44OTQ1NTE3NzQxNDE5LCAtMS4yMDUxNjcxOTkwODE0ODMKNTAuOTAzNzAxNTc4NzYwMDYsIC0xLjI0MjE4MjU3MDM0NTI1NjMKNTAuOTExNDI3OTMyNzk4MTYsIC0xLjI3ODg4MTk0NjgwNDUxCjUwLjkxNzc4MTY2MjA2NTM4LCAtMS4zMTUyNzgxMDQ0MjkyNjE2CjUwLjkyMjgxMTY5MzIyMzksIC0xLjM1MTM4MjcwNTk4NTIzNTIKNTAuOTI1NzI2MDY1MTY3MTYsIC0xLjM4NjM4NjQxNDAzMDMyMjQKNTAuOTI2NjEwMjU0MDE3NDgsIC0xLjQyMDMzMDAzNDU1MzQ5OTMKNTAuOTI1NTQ2MjYyODk2MDcsIC0xLjQ1MzI1Mjg1MjIxNTAyMTcKNTAuOTIyNjEyNzY0MDU2MjIsIC0xLjQ4NTE5MjY4NDQyNjc0ODIKNTAuOTE3ODg1MjM1MTI0MTcsIC0xLjUxNjE4NTkzMzcyMzgyNzMKNTAuOTExNDM2MDg5Njk3NDc0LCAtMS41NDYyNjc2Mzg0NjMzOTczCjUwLjkwMzMzNDgwMjUzOTc5NiwgLTEuNTc1NDcxNTIxODg2OTgyOAo=</text>
+        <text encoding="base64">dGVzdC5Db21tYW5kSW50ZXJuYWxzVGVzdCR0ZXN0U3Vic3lzdGVtQ29tcCRzdWIzJDFANzk3NWQxZDggYW5kIHRlc3QuQ29tbWFuZEludGVybmFsc1Rlc3QkdGVzdFN1YnN5c3RlbUNvbXAkc3ViMSQxQDI0MzhkY2Q6IGZhbHNlCnRlc3QuQ29tbWFuZEludGVybmFsc1Rlc3QkdGVzdFN1YnN5c3RlbUNvbXAkc3ViNCQxQDMyMTRlZTYgYW5kIHRlc3QuQ29tbWFuZEludGVybmFsc1Rlc3QkdGVzdFN1YnN5c3RlbUNvbXAkc3ViMSQxQDI0MzhkY2Q6IGZhbHNlCnRlc3QuQ29tbWFuZEludGVybmFsc1Rlc3QkdGVzdFN1YnN5c3RlbUNvbXAkc3ViMSQxQDI0MzhkY2QgYW5kIHRlc3QuQ29tbWFuZEludGVybmFsc1Rlc3QkdGVzdFN1YnN5c3RlbUNvbXAkc3ViMSQxQDI0MzhkY2Q6IHRydWUKdGVzdC5Db21tYW5kSW50ZXJuYWxzVGVzdCR0ZXN0U3Vic3lzdGVtQ29tcCRzdWIxJDFAMjQzOGRjZCBhbmQgdGVzdC5Db21tYW5kSW50ZXJuYWxzVGVzdCR0ZXN0U3Vic3lzdGVtQ29tcCRjb21wMyQxQDM4M2RjODJjOiBmYWxzZQp0ZXN0LkNvbW1hbmRJbnRlcm5hbHNUZXN0JHRlc3RTdWJzeXN0ZW1Db21wJHN1YjMkMUA3OTc1ZDFkOCBhbmQgdGVzdC5Db21tYW5kSW50ZXJuYWxzVGVzdCR0ZXN0U3Vic3lzdGVtQ29tcCRzdWIyJDFANGEwN2Q2MDU6IGZhbHNlCnRlc3QuQ29tbWFuZEludGVybmFsc1Rlc3QkdGVzdFN1YnN5c3RlbUNvbXAkc3ViNCQxQDMyMTRlZTYgYW5kIHRlc3QuQ29tbWFuZEludGVybmFsc1Rlc3QkdGVzdFN1YnN5c3RlbUNvbXAkc3ViMiQxQDRhMDdkNjA1OiBmYWxzZQp0ZXN0LkNvbW1hbmRJbnRlcm5hbHNUZXN0JHRlc3RTdWJzeXN0ZW1Db21wJHN1YjEkMUAyNDM4ZGNkIGFuZCB0ZXN0LkNvbW1hbmRJbnRlcm5hbHNUZXN0JHRlc3RTdWJzeXN0ZW1Db21wJHN1YjIkMUA0YTA3ZDYwNTogZmFsc2UKdGVzdC5Db21tYW5kSW50ZXJuYWxzVGVzdCR0ZXN0U3Vic3lzdGVtQ29tcCRzdWIyJDFANGEwN2Q2MDUgYW5kIHRlc3QuQ29tbWFuZEludGVybmFsc1Rlc3QkdGVzdFN1YnN5c3RlbUNvbXAkY29tcDMkMUAzODNkYzgyYzogZmFsc2UK</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">MzEy</text>
+        <text encoding="base64">OiBEb3VibGU=</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64">NDM1</text>
+        <text encoding="base64">ID0gMi4wIC8vIFRPRE86IEFERCBWQUxVRQ==</text>
       </register>
       <register name="/" type="CHARACTER_WISE">
-        <text encoding="base64">U1dJTkc=</text>
+        <text encoding="base64">bGFzdA==</text>
       </register>
-      <register name="0" type="CHARACTER_WISE">
-        <text encoding="base64">MTMuMjYyOTExOTI=</text>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICAgIHZhbCBiYXNlUHJpb3JpdHk6IERvdWJsZSA9IDEuMCwK</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBwb2RUeXBlICAgICAgICAgICA9IGdvQklMREFfU1dJTkdBUk1fUE9ELAo=</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IAo=</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBwb2RUeXBlICAgICAgICAgICA9IGdvQklMREFfU1dJTkdBUk1fUE9ELAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBwb2RUeXBlICAgICAgICAgICA9IGdvQklMREFfU1dJTkdBUk1fUE9ELAo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzZXQodmFsdWU6IERvdWJsZT8pIHsKICAgICAgICBpZih2YWx1ZSA9PSBudWxsKSBsYXN0V3JpdGUgPSBXcml0ZS5lbXB0eSgpCiAgICAgICAgZWxzZSBwb3dlciA9IHZhbHVlCiAgICB9Cg==</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biByZXNldEludGVybmFscygpIHsgfQo=</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcGlucG9pbnQuYXBwbHkgewo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB1cGRhdGUoZGVsdGFUaW1lOiBEb3VibGUpID0gZW5jb2Rlcj8udXBkYXRlKGRlbHRhVGltZSkgPzogVW5pdAo=</text>
       </register>
       <register name="6" type="LINE_WISE">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBwaW5wb2ludC5hcHBseSB7CiAgICAgICAgICAgIHhFbmNvZGVyT2Zmc2V0ICAgID0gLTM2LjAgLy8gbW0KICAgICAgICAgICAgeUVuY29kZXJPZmZzZXQgICAgPSAtNzAuMCAvLyBtbQogICAgICAgICAgICBwb2RUeXBlICAgICAgICAgICA9IGdvQklMREFfU1dJTkdBUk1fUE9ECiAgICAgICAgICAgIHhFbmNvZGVyRGlyZWN0aW9uID0gRk9SV0FSRAogICAgICAgICAgICB5RW5jb2RlckRpcmVjdGlvbiA9IFJFVkVSU0UKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biB1c2VFbmNvZGVyKGVuY29kZXI6IEVuY29kZXIpIHsgdGhpcy5lbmNvZGVyID0gZW5jb2RlciB9Cg==</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBwaW5wb2ludC5hcHBseSB7CiAgICAgICAgICAgIHhFbmNvZGVyT2Zmc2V0ICAgID0gLTM2LjAgLy8gbW0KICAgICAgICAgICAgeUVuY29kZXJPZmZzZXQgICAgPSAtNzAuMCAvLyBtbQogICAgICAgICAgICBwb2RUeXBlICAgICAgICAgICA9IGdvQklMREFfU1dJTkdBUk1fUE9ECiAgICAgICAgICAgIHhFbmNvZGVyRGlyZWN0aW9uID0gRk9SV0FSRAogICAgICAgICAgICB5RW5jb2RlckRpcmVjdGlvbiA9IFJFVkVSU0UK</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgeyBjb25zdCB2YWwgRVBTSUxPTiA9IDAuMDA1IH0K</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
         <text encoding="base64">cQ==</text>
@@ -331,11 +329,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">U1dJTkc=</last-search>
+      <last-search encoding="base64">bGFzdA==</last-search>
       <last-substitute encoding="base64">VGlja3M=</last-substitute>
       <last-offset encoding="base64" />
       <last-replace encoding="base64">UG9z</last-replace>
-      <last-pattern encoding="base64">U1dJTkc=</last-pattern>
+      <last-pattern encoding="base64">bGFzdA==</last-pattern>
       <last-dir encoding="base64">MQ==</last-dir>
       <show-last encoding="base64">ZmFsc2U=</show-last>
     </search>

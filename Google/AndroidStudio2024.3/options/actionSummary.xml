@@ -3,6 +3,9 @@
     <e n="$Copy">
       <i c="2" l="1743476263549" />
     </e>
+    <e n="$Delete">
+      <i c="2" l="1745726380705" />
+    </e>
     <e n="$Paste">
       <i c="2" l="1743476267634" />
     </e>
@@ -13,7 +16,7 @@
       <i c="1" l="1742969639157" />
     </e>
     <e n="ActivateRunToolWindow">
-      <i c="1" l="1743225636568" />
+      <i c="2" l="1745785822039" />
     </e>
     <e n="Android.SyncProject">
       <i c="2" l="1743279831850" />
@@ -22,10 +25,10 @@
       <i c="1" l="1742969200776" />
     </e>
     <e n="AutoIndentLines">
-      <i c="23" l="1743479267335" />
+      <i c="68" l="1745812718880" />
     </e>
     <e n="ChooseRunConfiguration">
-      <i c="15" l="1743301606957" />
+      <i c="20" l="1745787175282" />
     </e>
     <e n="CommentByLineComment">
       <i c="3" l="1743227494618" />
@@ -40,40 +43,40 @@
       <i c="1" l="1743476265352" />
     </e>
     <e n="Debug">
-      <i c="1" l="1743226489021" />
+      <i c="2" l="1745786778169" />
     </e>
     <e n="Documentation.EditSource">
       <i c="1" l="1743136613305" />
     </e>
     <e n="EditorBackSpace">
-      <i c="341" l="1743479556515" />
+      <i c="844" l="1745812758598" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="2" l="1743302516579" />
+      <i c="3" l="1745725994255" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="220" l="1743479553409" />
+      <i c="612" l="1745812760126" />
     </e>
     <e n="EditorDelete">
-      <i c="86" l="1743479170989" />
+      <i c="887" l="1745812527626" />
     </e>
     <e n="EditorDown">
-      <i c="43" l="1743477402197" />
+      <i c="90" l="1745812651727" />
     </e>
     <e n="EditorEnter">
-      <i c="122" l="1743479548979" />
+      <i c="339" l="1745812755574" />
     </e>
     <e n="EditorEscape">
-      <i c="30" l="1743479388297" />
+      <i c="53" l="1745791075763" />
     </e>
     <e n="EditorLeft">
-      <i c="1" l="1743302451391" />
+      <i c="3" l="1745786350092" />
     </e>
     <e n="EditorRight">
-      <i c="1" l="1743302451566" />
+      <i c="2" l="1745786336555" />
     </e>
     <e n="EditorTab">
-      <i c="10" l="1743138384059" />
+      <i c="14" l="1745811954446" />
     </e>
     <e n="EditorTabsEntryPoint">
       <i c="1" l="1742969174603" />
@@ -84,8 +87,17 @@
     <e n="EditorUp">
       <i c="3" l="1743477397031" />
     </e>
+    <e n="FindInPath">
+      <i c="24" l="1745729340846" />
+    </e>
+    <e n="Inline">
+      <i c="2" l="1745787192561" />
+    </e>
+    <e n="JumpToLastWindow">
+      <i c="2" l="1745715823709" />
+    </e>
     <e n="Kotlin.NewFile">
-      <i c="1" l="1743136038802" />
+      <i c="5" l="1745726972912" />
     </e>
     <e n="NavBarLocationBottom">
       <i c="1" l="1742969125311" />
@@ -100,22 +112,22 @@
       <i c="1" l="1743226629816" />
     </e>
     <e n="QuickJavaDoc">
-      <i c="1" l="1743278308569" />
+      <i c="4" l="1745812254565" />
     </e>
     <e n="RenameElement">
       <i c="2" l="1743302450256" />
     </e>
     <e n="Run">
-      <i c="55" l="1743302705384" />
+      <i c="116" l="1745787524467" />
     </e>
     <e n="RunAnything">
       <i c="1" l="1743225413051" />
     </e>
     <e n="SaveAll">
-      <i c="2" l="1743138719994" />
+      <i c="5" l="1745797798522" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="7" l="1743302633905" />
+      <i c="14" l="1745732589164" />
     </e>
     <e n="ShowKotlinBytecode">
       <i c="1" l="1743135708742" />
@@ -126,8 +138,14 @@
     <e n="ShowSettings">
       <i c="17" l="1743137127229" />
     </e>
+    <e n="Stop">
+      <i c="1" l="1745786582789" />
+    </e>
     <e n="ToggleDistractionFreeMode">
       <i c="2" l="1742969146409" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1745786231378" />
     </e>
     <e n="Tree-selectPrevious">
       <i c="2" l="1743281038566" />
@@ -157,16 +175,22 @@
       <i c="1" l="1743136608978" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
-      <i c="1" l="1743138290612" />
+      <i c="8" l="1745812030740" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="1" l="1743227780998" />
+      <i c="3" l="1745786240348" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="19" l="1745729350310" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
+      <i c="1" l="1745728381266" />
     </e>
     <e n="com.intellij.ide.actions.ToolWindowViewModeAction">
       <i c="3" l="1743225729401" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="336" l="1743479556514" />
+      <i c="838" l="1745812758597" />
     </e>
     <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
       <i c="1" l="1743136617413" />
@@ -183,26 +207,38 @@
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$RemoveShortcutAction">
       <i c="3" l="1743136782500" />
     </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1745729288294" />
+    </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="5" l="1743476290563" />
+      <i c="10" l="1745726981218" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="8" l="1742969099844" />
+      <i c="9" l="1745785817602" />
     </e>
     <e n="com.intellij.refactoring.suggested.RefactoringAvailableGutterIconRenderer$getClickAction$1">
-      <i c="5" l="1743478141985" />
+      <i c="8" l="1745797782747" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="3" l="1743280248360" />
+      <i c="5" l="1745730315727" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1743225725312" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="119" l="1745729350046" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
+      <i c="11" l="1745729041206" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1745715642070" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
       <i c="1" l="1742970009943" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="71" l="1743479518120" />
+      <i c="140" l="1745812531869" />
     </e>
   </component>
 </application>
