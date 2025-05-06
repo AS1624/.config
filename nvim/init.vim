@@ -17,7 +17,7 @@ set incsearch
 " Don't use Ex mode, use Q for formatting.
 map Q gq
 
-call plug#begin('~/.vim/plugged')
+call plug#begin()
 
 " Highlight copied text
 Plug 'machakann/vim-highlightedyank'
