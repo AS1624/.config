@@ -19,6 +19,8 @@ map Q gq
 
 call plug#begin()
 
+Plug 'justinmk/vim-sneak'
+
 " Highlight copied text
 Plug 'machakann/vim-highlightedyank'
 " Commentary plugin

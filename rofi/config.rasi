@@ -20,8 +20,8 @@ configuration {
     red:         #cd5c5c;
     lightred:    #cc5533;
 
-    lightgreen:  #88cc22;
-    darkgreen:   #22BC22;
+    lightgreen:  #B6FFBB;
+    darkgreen:   #98FF98;
 
     font: "Hack 20";
 }
@@ -90,6 +90,7 @@ element-text {
 }
 element selected.normal {
     background-color: @darkgreen;
+    color: @black;
 }
 element normal active {
     foreground: @lightgreen;
