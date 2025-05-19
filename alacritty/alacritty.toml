@@ -1,8 +1,8 @@
 [font]
-  normal = { family = "Hack", style = "Regular" }
+  normal = { family = "Hack Nerd Font", style = "Regular" }
   size = 16.0
-  bold = { family = "Hack", style = "Bold" }
-  italic = { family = "Hack", style = "Italic" }
+  bold = { family = "Hack Nerd Font", style = "Bold" }
+  italic = { family = "Hack Nerd Font", style = "Italic" }
 
 [colors.primary]
 background = "0x000000"

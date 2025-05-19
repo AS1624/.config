@@ -4,7 +4,7 @@
       <i c="2" l="1743476263549" />
     </e>
     <e n="$Delete">
-      <i c="2" l="1745726380705" />
+      <i c="4" l="1746513689122" />
     </e>
     <e n="$Paste">
       <i c="2" l="1743476267634" />
@@ -15,23 +15,26 @@
     <e n="ActivateLogcatToolWindow">
       <i c="1" l="1742969639157" />
     </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="2" l="1747616982680" />
+    </e>
     <e n="ActivateRunToolWindow">
-      <i c="2" l="1745785822039" />
+      <i c="4" l="1746514294444" />
     </e>
     <e n="Android.SyncProject">
-      <i c="2" l="1743279831850" />
+      <i c="7" l="1747619330644" />
     </e>
     <e n="AssembleRunConfiguration">
-      <i c="1" l="1742969200776" />
+      <i c="4" l="1747617974280" />
     </e>
     <e n="AutoIndentLines">
-      <i c="68" l="1745812718880" />
+      <i c="105" l="1747211275817" />
     </e>
     <e n="ChooseRunConfiguration">
-      <i c="20" l="1745787175282" />
+      <i c="26" l="1747211341250" />
     </e>
     <e n="CommentByLineComment">
-      <i c="3" l="1743227494618" />
+      <i c="4" l="1746508055075" />
     </e>
     <e n="ConfigureEditorTabs">
       <i c="1" l="1742969180873" />
@@ -49,25 +52,28 @@
       <i c="1" l="1743136613305" />
     </e>
     <e n="EditorBackSpace">
-      <i c="844" l="1745812758598" />
+      <i c="1334" l="1747618714457" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="3" l="1745725994255" />
+      <i c="4" l="1746422831272" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="612" l="1745812760126" />
+      <i c="1044" l="1747618720981" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1746414181733" />
     </e>
     <e n="EditorDelete">
-      <i c="887" l="1745812527626" />
+      <i c="958" l="1746514657020" />
     </e>
     <e n="EditorDown">
-      <i c="90" l="1745812651727" />
+      <i c="128" l="1747212150037" />
     </e>
     <e n="EditorEnter">
-      <i c="339" l="1745812755574" />
+      <i c="617" l="1747212283947" />
     </e>
     <e n="EditorEscape">
-      <i c="53" l="1745791075763" />
+      <i c="70" l="1747211089761" />
     </e>
     <e n="EditorLeft">
       <i c="3" l="1745786350092" />
@@ -76,7 +82,7 @@
       <i c="2" l="1745786336555" />
     </e>
     <e n="EditorTab">
-      <i c="14" l="1745811954446" />
+      <i c="18" l="1747209487118" />
     </e>
     <e n="EditorTabsEntryPoint">
       <i c="1" l="1742969174603" />
@@ -85,19 +91,31 @@
       <i c="1" l="1743136103079" />
     </e>
     <e n="EditorUp">
-      <i c="3" l="1743477397031" />
+      <i c="4" l="1747204877045" />
     </e>
     <e n="FindInPath">
-      <i c="24" l="1745729340846" />
+      <i c="34" l="1747212169274" />
+    </e>
+    <e n="Floating.CodeToolbar.Extract">
+      <i c="3" l="1747207487347" />
+    </e>
+    <e n="Floating.CodeToolbar.Surround">
+      <i c="1" l="1746508054523" />
+    </e>
+    <e n="GitNewBranchAction">
+      <i c="1" l="1747617125476" />
     </e>
     <e n="Inline">
       <i c="2" l="1745787192561" />
+    </e>
+    <e n="IntroduceVariable">
+      <i c="2" l="1747207488693" />
     </e>
     <e n="JumpToLastWindow">
       <i c="2" l="1745715823709" />
     </e>
     <e n="Kotlin.NewFile">
-      <i c="5" l="1745726972912" />
+      <i c="10" l="1747211971695" />
     </e>
     <e n="NavBarLocationBottom">
       <i c="1" l="1742969125311" />
@@ -108,26 +126,35 @@
     <e n="NewClass">
       <i c="1" l="1743136033753" />
     </e>
+    <e n="NewDir">
+      <i c="1" l="1747208582732" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="2" l="1747207499167" />
+    </e>
     <e n="PasteMultiple">
-      <i c="1" l="1743226629816" />
+      <i c="2" l="1747617938062" />
+    </e>
+    <e n="ProjectFromVersionControl">
+      <i c="1" l="1747617015359" />
     </e>
     <e n="QuickJavaDoc">
-      <i c="4" l="1745812254565" />
+      <i c="5" l="1746514074675" />
     </e>
     <e n="RenameElement">
       <i c="2" l="1743302450256" />
     </e>
     <e n="Run">
-      <i c="116" l="1745787524467" />
+      <i c="197" l="1747211316337" />
     </e>
     <e n="RunAnything">
       <i c="1" l="1743225413051" />
     </e>
     <e n="SaveAll">
-      <i c="5" l="1745797798522" />
+      <i c="23" l="1746519282782" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="14" l="1745732589164" />
+      <i c="39" l="1747212238558" />
     </e>
     <e n="ShowKotlinBytecode">
       <i c="1" l="1743135708742" />
@@ -147,8 +174,14 @@
     <e n="ToggleLineBreakpoint">
       <i c="2" l="1745786231378" />
     </e>
+    <e n="Tree-selectParent">
+      <i c="1" l="1746506169818" />
+    </e>
     <e n="Tree-selectPrevious">
       <i c="2" l="1743281038566" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1747618242782" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="1" l="1742968709866" />
@@ -174,14 +207,17 @@
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
       <i c="1" l="1743136608978" />
     </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
+      <i c="1" l="1747209619884" />
+    </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
-      <i c="8" l="1745812030740" />
+      <i c="10" l="1747207657136" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="3" l="1745786240348" />
+      <i c="7" l="1747210531319" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="19" l="1745729350310" />
+      <i c="28" l="1747212171667" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
       <i c="1" l="1745728381266" />
@@ -190,7 +226,7 @@
       <i c="3" l="1743225729401" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="838" l="1745812758597" />
+      <i c="1322" l="1747618714455" />
     </e>
     <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
       <i c="1" l="1743136617413" />
@@ -208,16 +244,16 @@
       <i c="3" l="1743136782500" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="3" l="1745729288294" />
+      <i c="4" l="1747211370033" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="10" l="1745726981218" />
+      <i c="17" l="1747620059495" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="9" l="1745785817602" />
+      <i c="14" l="1747618237187" />
     </e>
     <e n="com.intellij.refactoring.suggested.RefactoringAvailableGutterIconRenderer$getClickAction$1">
-      <i c="8" l="1745797782747" />
+      <i c="15" l="1747212077345" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="5" l="1745730315727" />
@@ -226,10 +262,10 @@
       <i c="3" l="1743225725312" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="119" l="1745729350046" />
+      <i c="130" l="1747212170252" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveUpAction">
-      <i c="11" l="1745729041206" />
+      <i c="14" l="1747212171091" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="1" l="1745715642070" />
@@ -238,7 +274,7 @@
       <i c="1" l="1742970009943" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="140" l="1745812531869" />
+      <i c="288" l="1747618677523" />
     </e>
   </component>
 </application>

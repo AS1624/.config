@@ -4,22 +4,38 @@
       <map>
         <entry key="$USER_HOME$/StudioProjects/RobotCore">
           <value>
-            <RecentProjectMetaInfo frameTitle="RobotCore – Constants.kt [RobotCore.TeamCode.main]" opened="true" projectWorkspaceId="2uqGh1IYLLnBbLxPo2yduafrWFe">
-              <option name="activationTimestamp" value="1745908932107" />
+            <RecentProjectMetaInfo frameTitle="RobotCore – temp.kt [RobotCore.TeamCode.main]" projectWorkspaceId="2uqGh1IYLLnBbLxPo2yduafrWFe">
+              <option name="activationTimestamp" value="1747617095821" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-243.24978.46.2431.13208083" />
               <option name="buildTimestamp" value="1741850880000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
-              <frame x="0" y="0" width="576" height="2048" extendedState="6" />
+              <frame x="1563" y="19" width="1632" height="1128" extendedState="4" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1745784182977" />
+              <option name="projectOpenTimestamp" value="1747616834918" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/EvergreenDragonsTC">
+          <value>
+            <RecentProjectMetaInfo frameTitle="EvergreenDragonsTC – GoBildaPinpointDriver.java [EvergreenDragonsTC.TeamCode.main]" opened="true" projectWorkspaceId="2xIEHOa9LIWqR27lLmiwHba6GK8">
+              <option name="activationTimestamp" value="1747620059575" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-243.24978.46.2431.13208083" />
+              <option name="buildTimestamp" value="1741850880000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1157" y="19" width="1018" height="1128" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1747617098980" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/StudioProjects/RobotCore" />
+    <option name="lastOpenedProject" value="$USER_HOME$/StudioProjects/EvergreenDragonsTC" />
   </component>
 </application>

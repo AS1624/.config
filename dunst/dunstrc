@@ -49,6 +49,7 @@
     # Maximum number of notification (0 means no limit)
     notification_limit = 20
 
+    enable_posix_regex = true
     ### Progress bar ###
 
     # Turn on the progress bar. It appears when a progress hint is passed with
@@ -327,6 +328,10 @@
     mouse_middle_click = do_action, close_current
     mouse_right_click = close_all
 
+[rule]
+    summary = ".*8382"
+    frame_color = "#FFC0CB"
+
 # Experimental features that may or may not work correctly. Do not expect them
 # to have a consistent behaviour across releases.
 [experimental]
@@ -343,15 +348,16 @@
     # Otherwise the "#" and following would be interpreted as a comment.
     background = "#000000"
     foreground = "#888888"
-    timeout = 10
+    timeout = 0
+    override_pause_level = 300
     # Icon for notifications with low urgency
     default_icon = dialog-information
 
 [urgency_normal]
     background = "#000000"
     foreground = "#ffffff"
-    timeout = 10
-    override_pause_level = 30
+    timeout = 0
+    override_pause_level = 300
     # Icon for notifications with normal urgency
     default_icon = dialog-information
 
@@ -360,7 +366,7 @@
     foreground = "#ffffff"
     frame_color = "#ff0000"
     timeout = 0
-    override_pause_level = 60
+    override_pause_level = 600
     # Icon for notifications with critical urgency
     default_icon = dialog-warning
 

@@ -1,23 +1,25 @@
 <application>
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.0.0.1152.2048" x="576" y="1024" />
-    <location key="find.popup.0.0.1152.2048" x="348" y="542" />
-    <size key="GridCell.Tab.0.left.0.0.1152.2048" width="1628" height="754" />
-    <size key="GridCell.Tab.0.center.0.0.1152.2048" width="1628" height="754" />
-    <size key="GridCell.Tab.0.right.0.0.1152.2048" width="1628" height="754" />
-    <size key="GridCell.Tab.0.bottom.0.0.1152.2048" width="1628" height="754" />
-    <size key="GridCell.Tab.0.left.1152.0.2048.1152" width="1628" height="447" />
-    <size key="GridCell.Tab.0.center.1152.0.2048.1152" width="1628" height="447" />
-    <size key="GridCell.Tab.0.right.1152.0.2048.1152" width="1628" height="447" />
-    <size key="GridCell.Tab.0.bottom.1152.0.2048.1152" width="1628" height="447" />
+    <location key="find.popup.0.0.1152.2048" x="350" y="715" />
+    <location key="find.popup.1152.0.2048.1152" x="2086" y="161" />
+    <size key="GridCell.Tab.0.left.0.0.1152.2048" width="2034" height="870" />
+    <size key="GridCell.Tab.0.center.0.0.1152.2048" width="2034" height="870" />
+    <size key="GridCell.Tab.0.right.0.0.1152.2048" width="2034" height="870" />
+    <size key="GridCell.Tab.0.bottom.0.0.1152.2048" width="2034" height="870" />
+    <size key="GridCell.Tab.0.left.1152.0.2048.1152" width="1138" height="972" />
+    <size key="GridCell.Tab.0.center.1152.0.2048.1152" width="1138" height="972" />
+    <size key="GridCell.Tab.0.right.1152.0.2048.1152" width="1138" height="972" />
+    <size key="GridCell.Tab.0.bottom.1152.0.2048.1152" width="1138" height="972" />
     <size key="find.popup.0.0.1152.2048" width="804" height="840" />
     <size key="GridCell.Tab.1.left.0.0.1152.2048" width="1138" height="629" />
     <size key="GridCell.Tab.1.center.0.0.1152.2048" width="1138" height="629" />
     <size key="GridCell.Tab.1.right.0.0.1152.2048" width="1138" height="629" />
     <size key="GridCell.Tab.1.bottom.0.0.1152.2048" width="1138" height="629" />
+    <size key="find.popup.1152.0.2048.1152" width="804" height="840" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="0" width="576" height="2048" extendedState="6" />
+    <frame x="1157" y="19" width="1018" height="1128" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="576" y="1024" key="WELCOME_SCREEN" timestamp="1742968670807">
